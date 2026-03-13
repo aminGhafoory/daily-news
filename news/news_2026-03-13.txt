@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-13
+========================================
+
+Title: Scientists discovered a secret deal between a plant and beetles
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260312222355.htm
+----------------------------------------
+Title: Depression may start with an energy problem in brain cells
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260312020107.htm
+----------------------------------------
+Title: A surprising blood protein pattern may reveal Alzheimer’s
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260312020104.htm
+----------------------------------------
+Title: Chickpeas could become the first food grown on the Moon
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260312020101.htm
+----------------------------------------
+Title: I beg you to follow Crocker's Rules, even if you will be rude to me
+Source: Hacker News
+URL: https://lr0.org/blog/p/crocker/
+----------------------------------------
+Title: I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites
+Source: Hacker News
+URL: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys
+----------------------------------------
+Title: Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group
+Source: Hacker News
+URL: https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/
+----------------------------------------
+Title: Pink Floyd guitar sold for record-breaking $14.6m
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Trial starts in case of explosives sent to UK and Poland
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1d6l9v3qk1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Stanford researchers report first recording of a blue whale's heart rate (2019)
+Source: Hacker News
+URL: https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate
+----------------------------------------
+Title: Austrian glaciers disintegrating due to climate change, say scientists
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cd038pgrr1yo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Two more horses die on final day of Cheltenham
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Mouser: An open source alternative to Logi-Plus mouse software
+Source: Hacker News
+URL: https://github.com/TomBadash/MouseControl
+----------------------------------------
+Title: Hammerspoon
+Source: Hacker News
+URL: https://github.com/Hammerspoon/hammerspoon
+----------------------------------------
+Title: Class-action lawsuit filed after the Potomac sewage spill
+Source: NPR News
+URL: https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit
+----------------------------------------
+Title: Kennedy Center president departs – months before the art complex's scheduled closing
+Source: NPR News
+URL: https://www.npr.org/2026/03/13/nx-s1-5747149/grenell-kennedy-center-president
+----------------------------------------
+Title: Your phone is an entire computer
+Source: Hacker News
+URL: https://medhir.com/blog/your-phone-is-an-entire-computer
+----------------------------------------
+Title: Show HN: Context Gateway – Compress agent context before it hits the LLM
+Source: Hacker News
+URL: https://github.com/Compresr-ai/Context-Gateway
+----------------------------------------
+Title: John Carmack about open source and anti-AI activists
+Source: Hacker News
+URL: https://twitter.com/id_aa_carmack/status/2032460578669691171
+----------------------------------------
+Title: First image emerges of Andrew, Mandelson and Epstein together
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyxezdv335o?at_medium=RSS&at_campaign=rss
+----------------------------------------
