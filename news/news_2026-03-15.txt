@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-15
+========================================
+
+Title: UK must build own nuclear missiles to end reliance on US, say Lib Dems
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy0dz1k0rr4o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Rack-Mount Hydroponics
+Source: Hacker News
+URL: https://sa.lj.am/rack-mount-hydroponics/
+----------------------------------------
+Title: A most elegant TCP hole punching algorithm
+Source: Hacker News
+URL: https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html
+----------------------------------------
+Title: Tree Search Distillation for Language Models Using PPO
+Source: Hacker News
+URL: https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/
+----------------------------------------
+Title: An eccentric new friend entered her life. Then things took a strange, expensive turn
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5yvpl9jlpeo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: A finale worthy of the greatest Six Nations in history
+Source: BBC News
+URL: https://www.bbc.com/sport/rugby-union/articles/cjd9m3p55y7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How Kernel Anti-Cheats Work
+Source: Hacker News
+URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/
+----------------------------------------
+Title: Scientists discover ALS protein that links DNA repair to cancer and dementia
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260314030507.htm
+----------------------------------------
+Title: 'Gruesome' war bets fuel calls for crackdown on prediction markets
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Oscars 2026: What to expect, how to watch and who will win
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyv4e2ldpjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Hidden deep-sea proteins could supercharge disease tests
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260314030502.htm
+----------------------------------------
+Title: A donut-shaped protein breaks apart to start bacterial cell division
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260314030457.htm
+----------------------------------------
+Title: SBCL Fibers – Lightweight Cooperative Threads
+Source: Hacker News
+URL: https://atgreen.github.io/repl-yell/posts/sbcl-fibers/
+----------------------------------------
+Title: Airbus is preparing two uncrewed combat aircraft
+Source: Hacker News
+URL: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european
+----------------------------------------
+Title: BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: London's Burning actor John Alford dies in prison
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cd6zdg737gpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net
+Source: Hacker News
+URL: https://github.com/groverburger/grobpaint
+----------------------------------------
+Title: NASA launches twin spacecraft to solve the mystery of Mars’ lost atmosphere
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260314030452.htm
+----------------------------------------
+Title: F1 cancels Bahrain & Saudi Arabia Grands Prix
+Source: BBC News
+URL: https://www.bbc.com/sport/formula1/articles/c5ykne3g305o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Ageless Linux – Software for humans of indeterminate age
+Source: Hacker News
+URL: https://agelesslinux.org/
+----------------------------------------
