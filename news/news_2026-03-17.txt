@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-17
+========================================
+
+Title: Dozens killed after Afghanistan rehab centre struck
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Will Scotland be the first nation in the UK to legalise assisted dying?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cg5nrv7nm56o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Kagi Translate now supports LinkedIn Speak as an output language
+Source: Hacker News
+URL: https://translate.kagi.com/?from=en&to=LinkedIn+speak
+----------------------------------------
+Title: Monkey Island for Commodore 64 Ground Up
+Source: Hacker News
+URL: https://pixeldust.se/monkey-island-project
+----------------------------------------
+Title: Millions without electricity as Cuba's power grid collapses
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Jepsen: MariaDB Galera Cluster 12.1.2
+Source: Hacker News
+URL: https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2
+----------------------------------------
+Title: Every layer of review makes you 10x slower
+Source: Hacker News
+URL: https://apenwarr.ca/log/20260316
+----------------------------------------
+Title: Chris Mason: Why Starmer thinks he's called it right on war despite Trump barbs
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn9e0zr5qy2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Moving English tests for migrants online risks criminal abuse, providers warn
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8xy05enzj7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Spring to make a comeback with warmest day of the year forecast
+Source: BBC News
+URL: https://www.bbc.com/weather/articles/cp8r3kgjmd5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: US SEC preparing to scrap quarterly reporting requirement
+Source: Hacker News
+URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/
+----------------------------------------
+Title: Train delay repay rule changes to make claims easier
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Easter holidaymakers switching from Dubai to Spain as flights fill up
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Reeves vows to stop UK tech from 'drifting abroad'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scientists just discovered a tiny signal that volcanoes send before they erupt
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260315004411.htm
+----------------------------------------
+Title: Life rebounded shockingly fast after the asteroid that killed the dinosaurs
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260315004414.htm
+----------------------------------------
+Title: A strange twist in the universe’s oldest light may be bigger than we thought
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260315225141.htm
+----------------------------------------
+Title: Family 'beyond devastated' by meningitis death as hundreds get antibiotics
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material
+Source: NPR News
+URL: https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images
+----------------------------------------
+Title: AnswerThis (YC F25) Is Hiring
+Source: Hacker News
+URL: https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead
+----------------------------------------
