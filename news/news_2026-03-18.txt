@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-18
+========================================
+
+Title: Switzerland Built an Alternative to BGP
+Source: Hacker News
+URL: https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/
+----------------------------------------
+Title: SSH has no Host header
+Source: Hacker News
+URL: https://blog.exe.dev/ssh-host-header
+----------------------------------------
+Title: Forget Flags and Scripts: Just Rename the File
+Source: Hacker News
+URL: https://robertsdotpm.github.io/software_engineering/program_names_as_input.html
+----------------------------------------
+Title: Have a Fucking Website
+Source: Hacker News
+URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
+----------------------------------------
+Title: Morocco awarded Africa Cup of Nations title after Senegal win overturned
+Source: BBC News
+URL: https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Dog owners to face unlimited fines if their pets attack livestock under new law
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy0dxzz0pzro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Rayner warns immigration reforms risk being 'un-British'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c7434xv1pmeo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Higgs Boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czr0zmzzp84o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Ruling overturns Senegal's Africa Cup title and declares Morocco the champion
+Source: NPR News
+URL: https://www.npr.org/2026/03/18/g-s1-114255/ruling-africa-cup-morocco-champion
+----------------------------------------
+Title: Venezuela beats U.S. 3-2, wins first World Baseball Classic title
+Source: NPR News
+URL: https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title
+----------------------------------------
+Title: EU offers to pay Ukraine to fix oil pipeline at the center of Ukraine-Hungary feud
+Source: NPR News
+URL: https://www.npr.org/2026/03/18/g-s1-114243/eu-offers-to-pay-ukraine-to-fix-oil-pipeline-at-the-center-of-ukraine-hungary-feud
+----------------------------------------
+Title: Launch an autonomous AI agent with sandboxed execution in 2 lines of code
+Source: Hacker News
+URL: https://amaiya.github.io/onprem/examples_agent.html
+----------------------------------------
+Title: The pleasures of poor product design
+Source: Hacker News
+URL: https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design
+----------------------------------------
+Title: A tale about fixing eBPF spinlock issues in the Linux kernel
+Source: Hacker News
+URL: https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/
+----------------------------------------
+Title: Nigeria president begins first UK state visit in 37 years
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Total repression and air strikes bring unrelenting dread for Iranians
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scotland's assisted dying bill rejected after emotional debate
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Ad for AI editing app which said it could 'remove anything' banned
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Zelensky calls for Trump and Starmer to meet and find common ground
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Daniel Biss wins Democratic primary for closely-watched Illinois House seat
+Source: NPR News
+URL: https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh
+----------------------------------------
