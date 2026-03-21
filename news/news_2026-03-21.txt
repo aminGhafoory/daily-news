@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-21
+========================================
+
+Title: Gum disease bacterium linked to breast cancer growth and spread
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260319044719.htm
+----------------------------------------
+Title: Ultra-processed foods linked to 67% higher risk of heart attack and stroke
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260319074604.htm
+----------------------------------------
+Title: Belly fat linked to heart failure risk even in people with normal weight
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260319074558.htm
+----------------------------------------
+Title: The best strength training plan might be simpler than you think
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260319074552.htm
+----------------------------------------
+Title: FFmpeg 101 (2024)
+Source: Hacker News
+URL: https://blogs.igalia.com/llepage/ffmpeg-101/
+----------------------------------------
+Title: purl: a curl-esque CLI for making HTTP requests that require payment
+Source: Hacker News
+URL: https://www.purl.dev/
+----------------------------------------
+Title: Scientists turn probiotic bacteria into tumor-hunting cancer killers
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260321004445.htm
+----------------------------------------
+Title: Socialists battle to hold Paris in key mayoral elections across France
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Chuck Norris memes were undefeated for a generation of young fans
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Sarah Ferguson is lying low, but pressure is mounting for her to give evidence on Epstein
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn87j9ry43ro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Traces of Evil
+Source: Hacker News
+URL: https://www.tracesofevil.com/
+----------------------------------------
+Title: Five questions that still need answering about the meningitis outbreak
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cz783d70x8ro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: These “forever chemicals” could be weakening kids’ bones for life
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260321004440.htm
+----------------------------------------
+Title: Traitors and Idris Elba help Comic Relief raise £30m
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvg3gnlwn10o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)
+Source: Hacker News
+URL: https://github.com/arnoldrobbins/LinuxByExample-2e
+----------------------------------------
+Title: Elon Musk misled Twitter investors, jury finds
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers
+Source: Hacker News
+URL: https://github.com/RedGridTactical/RedGridLink
+----------------------------------------
+Title: Ghostling
+Source: Hacker News
+URL: https://github.com/ghostty-org/ghostling
+----------------------------------------
+Title: Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran
+Source: Hacker News
+URL: https://github.com/FormerLab/fortransky
+----------------------------------------
+Title: We rewrote our Rust WASM parser in TypeScript and it got faster
+Source: Hacker News
+URL: https://www.openui.com/blog/rust-wasm-parser
+----------------------------------------
