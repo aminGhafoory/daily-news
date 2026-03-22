@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-22
+========================================
+
+Title: Sashiko: An agentic Linux kernel code review system
+Source: Hacker News
+URL: https://sashiko.dev/
+----------------------------------------
+Title: Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2
+Source: Hacker News
+URL: https://radar.cloudflare.com/domains/domain/archive.today
+----------------------------------------
+Title: Alpha Micro AM-1000E and AM-1200
+Source: Hacker News
+URL: http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html
+----------------------------------------
+Title: Foreign secretary denounces 'reckless Iran threats' after missiles fired at Diego Garcia
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The Three Pillars of JavaScript Bloat
+Source: Hacker News
+URL: https://43081j.com/2026/03/three-pillars-of-javascript-bloat
+----------------------------------------
+Title: Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Chest Fridge (2009)
+Source: Hacker News
+URL: https://mtbest.net/chest-fridge/
+----------------------------------------
+Title: Trump at a crossroads as US weighs tough options in Iran
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Sombr stopped a show over safety - but are concerts in the UK really that risky?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Ancient DNA reveals a farming shift that pushed a society to the brink
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260321012642.htm
+----------------------------------------
+Title: The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cd9vd35jgqqo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Pop megastars BTS electrify historic centre of Seoul with comeback concert
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Floci – A free, open-source local AWS emulator
+Source: Hacker News
+URL: https://github.com/hectorvent/floci
+----------------------------------------
+Title: Professional video editing, right in the browser with WebGPU and WASM
+Source: Hacker News
+URL: https://tooscut.app/
+----------------------------------------
+Title: A massive freshwater reservoir is hiding under the Great Salt Lake
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260321012640.htm
+----------------------------------------
+Title: Hidden antibiotics in river fish spark new food safety fears
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260321012638.htm
+----------------------------------------
+Title: Do Not Turn Child Protection into Internet Access Control
+Source: Hacker News
+URL: https://news.dyne.org/child-protection-is-not-access-control/
+----------------------------------------
+Title: Tinybox – Offline AI device 120B parameters
+Source: Hacker News
+URL: https://tinygrad.org/#tinybox
+----------------------------------------
+Title: Common Lisp Development Tooling
+Source: Hacker News
+URL: https://www.creativetension.co/posts/common-lisp-development-tooling
+----------------------------------------
