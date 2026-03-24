@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-24
+========================================
+
+Title: Heat pumps for all new homes and plug-in solar in green tech drive
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: UK's transplant system was world-leading - now it lags behind other Western nations
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Log File Viewer for the Terminal
+Source: Hacker News
+URL: https://lnav.org/
+----------------------------------------
+Title: Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist
+Source: Hacker News
+URL: https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11
+----------------------------------------
+Title: Colombian military plane crash kills at least 66
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Ubisoft's death by a thousand cuts
+Source: Hacker News
+URL: https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts
+----------------------------------------
+Title: Chris Mason: Reeves to set out principles on who might get energy bills support - and who won't
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: At least 66 killed in military plane crash in Colombia, head of armed forces says
+Source: NPR News
+URL: https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says
+----------------------------------------
+Title: Sunsetting the Techempower Framework Benchmarks
+Source: Hacker News
+URL: https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932
+----------------------------------------
+Title: Epoch confirms GPT5.4 Pro solved a frontier math open problem
+Source: Hacker News
+URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
+----------------------------------------
+Title: UK police probe possible Iran link after Jewish charity ambulances set on fire
+Source: NPR News
+URL: https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire
+----------------------------------------
+Title: Royal Mail staff say they were told to hide post to look like delivery targets met
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Inside the alleged Russian operation to trigger anti-government protests in Angola
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Despite state bans and restrictions, the number of abortions in the U.S. holds steady
+Source: NPR News
+URL: https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol
+----------------------------------------
+Title: Scientists discover surprising brain trigger behind high blood pressure
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260322020302.htm
+----------------------------------------
+Title: This floating time crystal breaks Newton’s third law of motion
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260322020258.htm
+----------------------------------------
+Title: This 67,800-year-old handprint is the oldest art ever found
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260322020300.htm
+----------------------------------------
+Title: Windows 3.1 tiled background .bmp archive
+Source: Hacker News
+URL: https://github.com/andreasjansson/win-3.1-backgrounds
+----------------------------------------
+Title: IRIX 3dfx Voodoo driver and glide2x IRIX port
+Source: Hacker News
+URL: https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/
+----------------------------------------
+Title: Jury orders Cosby to pay $19m to ex-waitress after finding he abused her in 1972
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1eq7v91n4xo?at_medium=RSS&at_campaign=rss
+----------------------------------------
