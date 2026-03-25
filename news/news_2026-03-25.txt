@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-25
+========================================
+
+Title: 'He liked the fear in our eyes', Epstein survivors tell BBC
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: First female Archbishop of Canterbury to be enthroned
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c20356v74k7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Implementing automatic eSIM installation on Android
+Source: Hacker News
+URL: https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb
+----------------------------------------
+Title: TurboQuant: Redefining AI efficiency with extreme compression
+Source: Hacker News
+URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+----------------------------------------
+Title: Miscellanea: The War in Iran
+Source: Hacker News
+URL: https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/
+----------------------------------------
+Title: Adolescence star Owen Cooper takes two RTS Awards
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5yj46r2jqno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Meta ordered to pay $375M in New Mexico trial over child exploitation
+Source: Hacker News
+URL: https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/
+----------------------------------------
+Title: Tough negotiations loom as Denmark's Social Democrats fail to secure a majority
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1
+Source: Hacker News
+URL: https://github.com/cigrainger/duckdb-hnsw-acorn
+----------------------------------------
+Title: VitruvianOS – Desktop Linux Inspired by the BeOS
+Source: Hacker News
+URL: https://v-os.dev
+----------------------------------------
+Title: OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns
+----------------------------------------
+Title: NHS dentistry is rotting. Will the plan to fix it work?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cr41lg6ddelo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'Wildy unaffordable': The harsh reality of shared ownership
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Rubio plans travel to France to sell Iran war to skeptical G7 allies
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/g-s1-115053/rubio-plans-travel-to-france-to-sell-iran-war-to-skeptical-g7-allies
+----------------------------------------
+Title: Most Americans don’t know this food raises colon cancer risk
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260324024259.htm
+----------------------------------------
+Title: Flighty Airports
+Source: Hacker News
+URL: https://flighty.com/airports
+----------------------------------------
+Title: Why your brain may be sabotaging your balance as you age
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260324230102.htm
+----------------------------------------
+Title: NHS waited two days before raising alarm about meningitis outbreak
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Oil at $150 would trigger global recession, says boss of financial giant BlackRock
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: A Compiler Writing Journey
+Source: Hacker News
+URL: https://github.com/DoctorWkt/acwj
+----------------------------------------
