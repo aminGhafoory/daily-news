@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-26
+========================================
+
+Title: Woman who never stopped updating her lost dog's chip reunites with him after 11y
+Source: Hacker News
+URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780
+----------------------------------------
+Title: Show HN: A plain-text cognitive architecture for Claude Code
+Source: Hacker News
+URL: https://lab.puga.com.br/cog/
+----------------------------------------
+Title: "Disregard That" Attacks
+Source: Hacker News
+URL: https://calpaterson.com/disregard.html
+----------------------------------------
+Title: British forces preparing to board Russian shadow fleet ships in UK waters
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Meta and YouTube found liable in landmark social media addiction trial
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Harry Potter TV show trailer: Everything we know so far
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cq6j20zp9n6o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Most mass spectrometers handle a few molecules. This new prototype handles billions
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260325005916.htm
+----------------------------------------
+Title: Running Tesla Model 3's computer on my desk using parts from crashed cars
+Source: Hacker News
+URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
+----------------------------------------
+Title: Cold weather linked to 40,000 extra heart deaths each year in the U.S.
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260325005910.htm
+----------------------------------------
+Title: Calls for urgent inquiry into high street child abuse claims
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cevkg7k01j2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The EU still wants to scan  your private messages and photos
+Source: Hacker News
+URL: https://fightchatcontrol.eu/?foo=bar
+----------------------------------------
+Title: Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range
+Source: Hacker News
+URL: https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/
+----------------------------------------
+Title: FreeCAD  v1.1
+Source: Hacker News
+URL: https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/
+----------------------------------------
+Title: Apple randomly closes bug reports unless you "verify" the bug remains unfixed
+Source: Hacker News
+URL: https://lapcatsoftware.com/articles/2026/3/11.html
+----------------------------------------
+Title: OpenAI's Sora app may be going away, but its legacy will be the spread of AI video slop
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/nx-s1-5759931/openais-sora-app-may-be-going-away-but-its-legacy-will-be-the-spread-ai-video-slop
+----------------------------------------
+Title: Doctors worry about FDA scrutiny of RSV shots to protect babies
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies
+----------------------------------------
+Title: Travelers are facing the longest TSA wait times in history
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/nx-s1-5760981/tsa-wait-times-lines
+----------------------------------------
+Title: Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/nx-s1-5760830/iranian-disco-turkey-iran
+----------------------------------------
+Title: Jury finds Meta and Google negligent in social media harms trial
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict
+----------------------------------------
+Title: For the first time in more than 1,400 years, Church of England gets a woman leader
+Source: NPR News
+URL: https://www.npr.org/2026/03/25/nx-s1-5753707/archbishop-canterbury-church-england-sarah-mullally
+----------------------------------------
