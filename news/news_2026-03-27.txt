@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-27
+========================================
+
+Title: Metformin’s hidden brain pathway revealed after 60 years
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260325055441.htm
+----------------------------------------
+Title: Astronomers solve 50-year mystery of a naked-eye star’s extreme X-rays
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260325041723.htm
+----------------------------------------
+Title: Trump's signature to appear on US dollars in first for sitting president
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Chicago artist creates tourism posters for city's neighborhoods
+Source: Hacker News
+URL: https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/
+----------------------------------------
+Title: Olivia Dean's streak continues as she wins big at Mobo Awards
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyerj082p1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer
+Source: Hacker News
+URL: https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/
+----------------------------------------
+Title: We rewrote JSONata with AI in a day, saved $500k/year
+Source: Hacker News
+URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai
+----------------------------------------
+Title: The depleted Education Department will move out of its headquarters
+Source: NPR News
+URL: https://www.npr.org/2026/03/26/nx-s1-5762974/education-department-building
+----------------------------------------
+Title: Freshwater fish populations plunge 81% as river migrations collapse
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260326064157.htm
+----------------------------------------
+Title: Scientists create clear nail polish that lets you use touchscreens with long nails
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260326064200.htm
+----------------------------------------
+Title: Anthropic Subprocessor Changes
+Source: Hacker News
+URL: https://trust.anthropic.com
+----------------------------------------
+Title: Apple discontinues the Mac Pro
+Source: Hacker News
+URL: https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/
+----------------------------------------
+Title: Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer
+Source: Hacker News
+URL: https://github.com/ViciousSquid/Fio
+----------------------------------------
+Title: Spanish woman dies by euthanasia after long legal battle with father
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Judge temporarily blocks Trump administration's Anthropic ban
+Source: NPR News
+URL: https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban
+----------------------------------------
+Title: Trump says he'll sign order to pay TSA agents as Congress struggles to reach funding deal
+Source: NPR News
+URL: https://www.npr.org/2026/03/26/g-s1-115401/trump-executive-order-tsa-agents-congress-shutdown-funding
+----------------------------------------
+Title: The Olympic committee bans trans athletes from women's events, raising many questions
+Source: NPR News
+URL: https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing
+----------------------------------------
+Title: As TSA agents miss another paycheck, what's happening at airports with private security?
+Source: NPR News
+URL: https://www.npr.org/2026/03/26/nx-s1-5759273/not-all-airports-use-tsa-agents-for-security-at-places-like-sfo-thats-helped-lines
+----------------------------------------
+Title: Trump has deployed ICE agents to the nation's airports. What's their role?
+Source: NPR News
+URL: https://www.npr.org/2026/03/26/nx-s1-5759159/trump-ice-airports-tsa
+----------------------------------------
+Title: DOJ admits ICE courthouse arrests relied on erroneous information
+Source: NPR News
+URL: https://www.npr.org/2026/03/26/nx-s1-5762691/doj-admits-ice-courthouse-arrests-relied-on-erroneous-information
+----------------------------------------
