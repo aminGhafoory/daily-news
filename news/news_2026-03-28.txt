@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-28
+========================================
+
+Title: This cow uses tools like a primate—and scientists are stunned
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260326075611.htm
+----------------------------------------
+Title: Woods bailed after arrest following crash
+Source: BBC News
+URL: https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Gaza peace doubts deepen as attention shifts to Iran
+Source: BBC News
+URL: https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'He would have been horrified' - error in drug warnings 'misled' families
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How Trump and the oil markets move in sync: a tango in six charts
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
+Source: Hacker News
+URL: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
+----------------------------------------
+Title: Agent begged Epstein to have sex with model, emails show
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cm2kn7nj00ro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Go hard on agents, not on your filesystem
+Source: Hacker News
+URL: https://jai.scs.stanford.edu/
+----------------------------------------
+Title: Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Maldives tells UK it does not recognise Chagos Islands deal with Mauritius
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scientists say we’ve been looking in the wrong place for human origins
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260327230113.htm
+----------------------------------------
+Title: Show HN: Twitch Roulette – Find live streamers who need views the most
+Source: Hacker News
+URL: https://twitchroulette.net/
+----------------------------------------
+Title: Watch the Earth split in real time: Stunning footage captures a 2.5-meter fault slip in seconds
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/03/260327211149.htm
+----------------------------------------
+Title: Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser
+Source: Hacker News
+URL: https://github.com/davidmonterocrespo24/velxio
+----------------------------------------
+Title: Colorado House passes bill to limit surveillance pricing and wage setting
+Source: Hacker News
+URL: https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/
+----------------------------------------
+Title: ISBN Visualization
+Source: Hacker News
+URL: https://annas-archive.gd/isbn-visualization
+----------------------------------------
+Title: Iran-backed hackers breach FBI director Kash Patel's personal emails
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Make macOS consistently bad unironically
+Source: Hacker News
+URL: https://lr0.org/blog/p/macos/
+----------------------------------------
+Title: Capability-Based Security for Redox: Namespace and CWD as Capabilities
+Source: Hacker News
+URL: https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/
+----------------------------------------
+Title: Sanctioned oil tanker enters UK waters day after government crackdown threat
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cp3lw02ndr5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
