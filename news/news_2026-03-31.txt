@@ -1,0 +1,83 @@
+Daily News Digest - 2026-03-31
+========================================
+
+Title: RamAIn (YC W26) Is Hiring
+Source: Hacker News
+URL: https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer
+----------------------------------------
+Title: Starmer gives doctors 48 hours to cancel strike or lose new jobs package
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scott Mills investigated in 2016 over sexual offence allegations against teenage boy
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'I sent eight letters': Drivers hope for payout from car finance redress scheme
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Eurovision Song Contest launches first-ever Asia edition
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Google's 200M-parameter time-series foundation model with 16k context
+Source: Hacker News
+URL: https://github.com/google-research/timesfm
+----------------------------------------
+Title: Sony halts memory card shipments due to NAND shortage
+Source: Hacker News
+URL: https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/
+----------------------------------------
+Title: GitHub backs down, kills Copilot pull-request ads after backlash
+Source: Hacker News
+URL: https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/
+----------------------------------------
+Title: 'Something wasn't right': Wrong sperm given to UK families by IVF clinics in Northern Cyprus
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c74v5jd5zkjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Ollama is now powered by MLX on Apple Silicon in preview
+Source: Hacker News
+URL: https://ollama.com/blog/mlx
+----------------------------------------
+Title: Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly
+Source: Hacker News
+URL: https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/
+----------------------------------------
+Title: Labour to overhaul non-crime hate incident rules
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c80m7xyl0xgo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Congressman writes to King Charles urging him to meet Epstein victims during US visit
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Axios compromised on NPM – Malicious versions drop remote access trojan
+Source: Hacker News
+URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
+----------------------------------------
+Title: Mr. Chatterbox is a Victorian-era ethically trained model
+Source: Hacker News
+URL: https://simonwillison.net/2026/Mar/30/mr-chatterbox/
+----------------------------------------
+Title: Artemis II is not safe to fly
+Source: Hacker News
+URL: https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm
+----------------------------------------
+Title: Incident March 30th, 2026 – Accidental CDN Caching
+Source: Hacker News
+URL: https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching
+----------------------------------------
+Title: Army reviewing after helicopters hovered alongside Kid Rock's swimming pool as he saluted
+Source: NPR News
+URL: https://www.npr.org/2026/03/31/nx-s1-5766990/army-reviewing-helicopters-kid-rock
+----------------------------------------
+Title: Airport cleared to be renamed for Trump as he unveils design for skyscraper library
+Source: NPR News
+URL: https://www.npr.org/2026/03/31/g-s1-115915/airport-renamed-trump
+----------------------------------------
+Title: Women's Final Four is set, and it is a repeat of last season's
+Source: NPR News
+URL: https://www.npr.org/2026/03/31/g-s1-115907/women-final-four-repeat
+----------------------------------------
