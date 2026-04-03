@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-03
+========================================
+
+Title: Tor Alva: The Tallest 3D-Printed Building in the World
+Source: Hacker News
+URL: https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/
+----------------------------------------
+Title: Police offered support to tackle rising threats against MPs
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: A Few Good Magazines From the 70s and 80s
+Source: Hacker News
+URL: https://www.bi6.us/CO/MG.HTML
+----------------------------------------
+Title: Show HN: Made a little Artemis II tracker
+Source: Hacker News
+URL: https://artemis-ii-tracker.com/
+----------------------------------------
+Title: Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Marmalade to be rebranded in post-Brexit food deal
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Memo: A language that remembers only the last 12 lines of code
+Source: Hacker News
+URL: https://danieltemkin.com/Esolangs/Memo/
+----------------------------------------
+Title: ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)
+Source: Hacker News
+URL: https://paradedb.notion.site/
+----------------------------------------
+Title: Study finds dangerous lead levels in children’s clothing
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260402042737.htm
+----------------------------------------
+Title: New microwave frying technique could make french fries much healthier
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260402042803.htm
+----------------------------------------
+Title: Zep AI Is Hiring – Building the Agent Context Layer (YC W24)
+Source: Hacker News
+URL: https://www.ycombinator.com/companies/zep-ai/jobs
+----------------------------------------
+Title: Tailscale's new macOS home
+Source: Hacker News
+URL: https://tailscale.com/blog/macos-notch-escape
+----------------------------------------
+Title: A botanist searches for the seeds of the rare Death Valley Sage
+Source: NPR News
+URL: https://www.npr.org/sections/the-picture-show/2026/04/01/nx-s1-5749446/botanist-search-seeds-rare-death-valley-sage
+----------------------------------------
+Title: Laser-powered wireless hits 360 Gbps and uses half the energy of Wi-Fi
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260402042734.htm
+----------------------------------------
+Title: Trump administration sues three states over attempts to regulate prediction markets
+Source: NPR News
+URL: https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits
+----------------------------------------
+Title: Prince William praises £20m milestone for Bowelbabe fund
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: BBC boss Tim Davie says it was 'very clear' Scott Mills had to go
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy01wd437x2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: EPA flags microplastics, pharmaceuticals as contaminants in drinking water
+Source: NPR News
+URL: https://www.npr.org/2026/04/02/nx-s1-5771155/epa-microplastics-pharmaceuticals-drinking-water
+----------------------------------------
+Title: Attorney General Pam Bondi out at DOJ
+Source: NPR News
+URL: https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure
+----------------------------------------
