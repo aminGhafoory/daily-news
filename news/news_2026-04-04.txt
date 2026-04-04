@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-04
+========================================
+
+Title: Study finds dangerous lead levels in children’s clothing
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260402042737.htm
+----------------------------------------
+Title: New microwave frying technique could make french fries much healthier
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260402042803.htm
+----------------------------------------
+Title: Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scientists are working on "everything vaccines"
+Source: Hacker News
+URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines
+----------------------------------------
+Title: Naming rights to street auctioned in San Francisco
+Source: Hacker News
+URL: https://paintastreet.com/auction
+----------------------------------------
+Title: Delve sets the record straight on anonymous attacks
+Source: Hacker News
+URL: https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks
+----------------------------------------
+Title: Gold overtakes U.S. Treasuries as the largest foreign reserve asset
+Source: Hacker News
+URL: https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr
+----------------------------------------
+Title: Show HN: Travel Hacking Toolkit – Points search and trip planning with AI
+Source: Hacker News
+URL: https://github.com/borski/travel-hacking-toolkit
+----------------------------------------
+Title: Delve removed from Y Combinator
+Source: Hacker News
+URL: https://www.ycombinator.com/companies/delve
+----------------------------------------
+Title: 65, single, seeking a roommate: More seniors are being priced out of living alone
+Source: NPR News
+URL: https://www.npr.org/2026/04/04/nx-s1-5760948/high-housing-costs-seniors-seeking-roommates
+----------------------------------------
+Title: The FAA’s flight restriction for drones is an attempt to criminalize filming ICE
+Source: Hacker News
+URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice
+----------------------------------------
+Title: State pension age starts rising to 67 - here's how much you get and when
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Faced with new energy shock, Europe asks if reviving nuclear is the answer
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: After 16 years in power, can Viktor Orban finally be unseated?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+Source: Hacker News
+URL: https://news.ycombinator.com/item?id=47633396
+----------------------------------------
+Title: Three charged over Jewish charity ambulance fires
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Fake Fans
+Source: Hacker News
+URL: https://www.wordsfromeliza.com/p/fake-fans
+----------------------------------------
+Title: Run Linux containers on Android, no root required
+Source: Hacker News
+URL: https://github.com/ExTV/Podroid
+----------------------------------------
+Title: Starmer's cost-of-living adviser calls for fuel duty cut extension
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy81g8ypz6do?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Russia chose 'Easter escalation' over ceasefire, says Zelensky
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss
+----------------------------------------
