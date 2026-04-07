@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-07
+========================================
+
+Title: Price of first class stamp rises to £1.80
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Australia's most-decorated living soldier charged over alleged war crimes
+Source: BBC News
+URL: https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Disruption expected as six-day doctors' strike begins
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: China is winning one AI race, the US another - but either might pull ahead
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: More than 1,700 Brits who fell ill in Cape Verde join action against Tui
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: JD Vance due in Hungary to back Orban's re-election bid
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: This new chip survives 1300°F (700°C) and could change AI forever
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260406192904.htm
+----------------------------------------
+Title: Watch: Artemis II mission loses contact with Earth for 40 minutes
+Source: BBC News
+URL: https://www.bbc.com/news/videos/cp38vg5knveo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Solod – A subset of Go that translates to C
+Source: Hacker News
+URL: https://github.com/solod-dev/solod
+----------------------------------------
+Title: Michigan muscles its way to program's 2nd NCAA basketball title, beating UConn
+Source: NPR News
+URL: https://www.npr.org/2026/04/07/g-s1-116620/michigan-ncaa-national-title
+----------------------------------------
+Title: Earth’s most powerful ocean current didn’t form the way we thought
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260406192902.htm
+----------------------------------------
+Title: Scientists found a protein that drives brain aging — and how to stop it
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260405065236.htm
+----------------------------------------
+Title: Scientists found a “lost world” of animals that shouldn’t exist yet
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260406234153.htm
+----------------------------------------
+Title: Scientists discover the “Goldilocks” secret behind life on Earth
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260406192917.htm
+----------------------------------------
+Title: This “forbidden” exoplanet has an atmosphere scientists can’t explain
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260406192905.htm
+----------------------------------------
+Title: After 20 years I turned off Google Adsense for my websites (2025)
+Source: Hacker News
+URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm
+----------------------------------------
+Title: Call for parents to teach online privacy like road safety
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Little sign of breakthrough as Trump's Iran deadline nears
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Anthropic expands partnership with Google and Broadcom for next-gen compute
+Source: Hacker News
+URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+----------------------------------------
+Title: Show HN: Hippo, biologically inspired memory for AI agents
+Source: Hacker News
+URL: https://github.com/kitfunso/hippo-memory
+----------------------------------------
