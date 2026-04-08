@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-08
+========================================
+
+Title: Starmer to visit Middle East after US and Iran reach ceasefire deal
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Sonnet 4.6 Elevated Rate of Errors
+Source: Hacker News
+URL: https://status.claude.com/incidents/lhws0phdvzz3
+----------------------------------------
+Title: Revision Demoparty 2026: Razor1911 [video]
+Source: Hacker News
+URL: https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s
+----------------------------------------
+Title: Family of one-punch attack victim fear £500k compensation could run out
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy91p4qzn24o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How Pakistan helped secure a fragile ceasefire between the US and Iran
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Iran ceasefire deal a partial win for Trump - but at a high cost
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Protect your shed
+Source: Hacker News
+URL: https://dylanbutler.dev/blog/protect-your-shed/
+----------------------------------------
+Title: What we know about the two-week ceasefire between the US and Iran
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Tributes after British teenager dies while visiting Vietnam
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: JSIR: A High-Level IR for JavaScript
+Source: Hacker News
+URL: https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456
+----------------------------------------
+Title: Xilem – An experimental Rust native UI framework
+Source: Hacker News
+URL: https://github.com/linebender/xilem
+----------------------------------------
+Title: US and Iran agree to provisional ceasefire
+Source: Hacker News
+URL: https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire
+----------------------------------------
+Title: Newlywed wife of US soldier freed by ICE after detention at military base
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Telehealth abortion will remain available for now, after a federal judge's ruling
+Source: NPR News
+URL: https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone
+----------------------------------------
+Title: Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260407193848.htm
+----------------------------------------
+Title: Scientists discover reversible male birth control that stops sperm production
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260407193844.htm
+----------------------------------------
+Title: Show HN: An interactive map of Tolkien's Middle-earth
+Source: Hacker News
+URL: https://middle-earth-interactive-map.web.app/
+----------------------------------------
+Title: Trump has backed down from his threat to wipe out Iran's civilization
+Source: NPR News
+URL: https://www.npr.org/2026/04/07/nx-s1-5776560/trump-has-backed-down-from-his-threat-to-wipe-out-irans-civilization
+----------------------------------------
+Title: S3 Files
+Source: Hacker News
+URL: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
+----------------------------------------
