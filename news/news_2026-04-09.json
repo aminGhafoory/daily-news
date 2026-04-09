@@ -1,0 +1,362 @@
+[
+  {
+    "title": "'Even if Iran war ends now, farmers' costs will have to be passed on'",
+    "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Apr 2026 23:03:53 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.",
+    "fetched_at": "2026-04-09T07:13:34.737600"
+  },
+  {
+    "title": "Show HN: Is Hormuz open yet?",
+    "link": "https://www.ishormuzopenyet.com/",
+    "published": "Wed, 08 Apr 2026 21:33:06 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>I built this because I was interested in the data. Didn't fully get it to what I wanted, but thought I'd share it nonetheless. Maybe someone has better data sources they could share!<p>Turns out live ship tracking APIs are expensive so I manually just copied the json from <a href=\"https://www.marinetraffic.com/en/ais/home/centerx:57.4/centery:26.4/zoom:8\" rel=\"nofollow\">https://www.marinetraffic.com/en/ais/home/centerx:57.4/cente...</a> I'll probably have an ai agent do the same thing on some cron interval, if this gets any fanfare.<p>To actually know if the port is open without live ship tracking I found <a href=\"https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730\" rel=\"nofollow\">https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a...</a> which was perfect, except it has 4 day lag!<p>I also thought of adding news feed parsing or prediction market data to get a more definitive answer on if it's open right when you load it, but I spent a few hours and am gonna move on for now.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47696562\">https://news.ycombinator.com/item?id=47696562</a></p>\n<p>Points: 358</p>\n<p># Comments: 143</p>",
+    "fetched_at": "2026-04-09T07:13:35.874469"
+  },
+  {
+    "title": "John Deere to pay $99M in right-to-repair settlement",
+    "link": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+    "published": "Wed, 08 Apr 2026 20:46:27 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement\">https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47696035\">https://news.ycombinator.com/item?id=47696035</a></p>\n<p>Points: 271</p>\n<p># Comments: 70</p>",
+    "fetched_at": "2026-04-09T07:13:35.874474"
+  },
+  {
+    "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
+    "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Apr 2026 20:26:48 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.",
+    "fetched_at": "2026-04-09T07:13:34.737595"
+  },
+  {
+    "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+    "link": "https://werwolv.net/posts/usb_for_sw_devs/",
+    "published": "Wed, 08 Apr 2026 19:23:34 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://werwolv.net/posts/usb_for_sw_devs/\">https://werwolv.net/posts/usb_for_sw_devs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47695012\">https://news.ycombinator.com/item?id=47695012</a></p>\n<p>Points: 264</p>\n<p># Comments: 31</p>",
+    "fetched_at": "2026-04-09T07:13:35.874479"
+  },
+  {
+    "title": "Expanding Swift's IDE Support",
+    "link": "https://swift.org/blog/expanding-swift-ide-support/",
+    "published": "Wed, 08 Apr 2026 19:21:41 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://swift.org/blog/expanding-swift-ide-support/\">https://swift.org/blog/expanding-swift-ide-support/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47694983\">https://news.ycombinator.com/item?id=47694983</a></p>\n<p>Points: 105</p>\n<p># Comments: 46</p>",
+    "fetched_at": "2026-04-09T07:13:35.874484"
+  },
+  {
+    "title": "Once seen as a war hero, Australian ex-soldier will stand trial for alleged war crimes",
+    "link": "https://www.npr.org/2026/04/08/nx-s1-5776855/once-seen-as-a-war-hero-australian-ex-soldier-will-stand-trial-for-alleged-war-crimes",
+    "published": "Wed, 08 Apr 2026 18:59:22 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Until a few years ago, Ben Roberts-Smith was one of Australia's most celebrated war heroes. But now, he will stand trial for alleged war crimes committed in Afghanistan.",
+    "fetched_at": "2026-04-09T07:13:35.372557"
+  },
+  {
+    "title": "Israel says it hit Lebanon 100 times in just 10 minutes",
+    "link": "https://www.bbc.com/news/videos/c75k1p625ngo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Apr 2026 18:37:48 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Israel described it as the largest wave of air strikes in this conflict, hitting more than 100 of what it called Hezbollah command centres and military sites.",
+    "fetched_at": "2026-04-09T07:13:34.737589"
+  },
+  {
+    "title": "Bill Gates will testify in the Epstein probe; Pam Bondi testimony postponed",
+    "link": "https://www.npr.org/2026/04/08/nx-s1-5777585/bill-gates-pam-bondi-epstein-house-oversight",
+    "published": "Wed, 08 Apr 2026 18:15:48 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Bill Gates will appear before the House Oversight Committee in June. The Department of Justice said Wednesday that former Attorney General Pam Bondi will not testify for now.",
+    "fetched_at": "2026-04-09T07:13:35.372562"
+  },
+  {
+    "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+    "link": "http://oj-hn.com/",
+    "published": "Wed, 08 Apr 2026 18:08:52 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"http://oj-hn.com/\">http://oj-hn.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47694036\">https://news.ycombinator.com/item?id=47694036</a></p>\n<p>Points: 109</p>\n<p># Comments: 131</p>",
+    "fetched_at": "2026-04-09T07:13:35.874489"
+  },
+  {
+    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+    "link": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+    "published": "Wed, 08 Apr 2026 17:44:25 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/\">https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47693679\">https://news.ycombinator.com/item?id=47693679</a></p>\n<p>Points: 341</p>\n<p># Comments: 160</p>",
+    "fetched_at": "2026-04-09T07:13:35.874494"
+  },
+  {
+    "title": "Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long",
+    "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Apr 2026 17:05:54 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Whether or not a lasting peace deal can be reached, the war and its consequences are reshaping the Middle East, writes international editor Jeremy Bowen.",
+    "fetched_at": "2026-04-09T07:13:34.737572"
+  },
+  {
+    "title": "What has the U.S. war with Iran accomplished?",
+    "link": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+    "published": "Wed, 08 Apr 2026 16:49:18 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Trump's war goals included putting an end to Iran's nuclear program, destroying its military capabilities and creating regime change. That hasn't happened.",
+    "fetched_at": "2026-04-09T07:13:35.372566"
+  },
+  {
+    "title": "Why OpenAI bought 'SportsCenter for Silicon Valley'",
+    "link": "https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley",
+    "published": "Wed, 08 Apr 2026 15:17:45 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "OpenAI is seeking to shape the public narrative about AI with the purchase of a niche talk show popular with Silicon Valley insiders.",
+    "fetched_at": "2026-04-09T07:13:35.372571"
+  },
+  {
+    "title": "Greetings from downtown Cairo, where unpretentious cafés are part of centuries-old charm",
+    "link": "https://www.npr.org/2026/04/08/g-s1-116552/cairo-wust-el-balad-sheesha-cafe",
+    "published": "Wed, 08 Apr 2026 13:58:10 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Downtown Cairo, or Wust el-Balad as it's known, is a trove of hidden gems. Imprinted on every high-ceilinged building, arched balcony and iconic roundabout are relics that feel like love letters from the past.",
+    "fetched_at": "2026-04-09T07:13:35.372576"
+  },
+  {
+    "title": "Democrats keep doing better in elections since Trump returned to office",
+    "link": "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
+    "published": "Wed, 08 Apr 2026 12:28:29 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "With elections in Georgia and Wisconsin Tuesday, Democrats continued to overperform, which the party started in 2025 when it regularly improved on its margins compared to the presidential race in 2024.",
+    "fetched_at": "2026-04-09T07:13:35.372581"
+  },
+  {
+    "title": "Scientists say we’ve been wrong about what makes sprinters fast",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193911.htm",
+    "published": "Wed, 08 Apr 2026 09:17:58 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A new international study is shaking up how we think about elite sprinting, arguing there’s no single “perfect” running style behind the world’s fastest athletes. Instead, speed emerges from a complex mix of an individual’s body, coordination, strength, and training—meaning every top sprinter moves differently. Using examples like rising Australian star Gout Gout, researchers show that unique physical traits can produce world-class speed without copying anyone else’s technique.",
+    "fetched_at": "2026-04-09T07:13:35.646097"
+  },
+  {
+    "title": "Something just hit the Moon and left a bright new scar",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193919.htm",
+    "published": "Wed, 08 Apr 2026 08:43:43 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "For all its ancient, familiar features, the Moon is still changing—and sometimes in dramatic ways. Scientists recently identified a fresh 22-meter-wide crater by comparing orbital images taken years apart, revealing a relatively recent impact that no one actually saw happen. The collision blasted bright material outward in striking rays, making the new crater stand out sharply against the darker lunar surface.",
+    "fetched_at": "2026-04-09T07:13:35.646080"
+  },
+  {
+    "title": "Did a black hole just explode? This “impossible” particle may be the evidence",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193906.htm",
+    "published": "Wed, 08 Apr 2026 02:52:25 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A bizarre, record-breaking neutrino detected in 2023 may have originated from an exploding primordial black hole—a relic from the early universe. Scientists suggest these black holes could carry a mysterious “dark charge,” causing rare but powerful bursts of energy that current detectors might occasionally catch. This could explain why only one experiment saw the event. The theory also opens the door to discovering entirely new particles and possibly uncovering the nature of dark matter.",
+    "fetched_at": "2026-04-09T07:13:35.646102"
+  },
+  {
+    "title": "This walking robot could change how we search for life on Mars",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193902.htm",
+    "published": "Wed, 08 Apr 2026 02:04:23 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Planetary exploration may be about to get a major speed boost. Researchers tested a semi-autonomous robot that can move from rock to rock, analyzing each without waiting for human instructions. The system completed missions up to three times faster than traditional methods while still accurately identifying important geological targets. This could allow future missions to cover far more ground in the search for resources and signs of life.",
+    "fetched_at": "2026-04-09T07:13:35.646107"
+  },
+  {
+    "title": "Quantum computers keep losing data. This breakthrough finally tracks it",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193857.htm",
+    "published": "Wed, 08 Apr 2026 01:02:44 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Quantum computers struggle with a major flaw: their information vanishes unpredictably. Scientists have now created a new method that can measure this loss over 100 times faster than before. By tracking changes in near real time, researchers can finally see what’s going wrong inside these systems. This could be a big step toward making quantum computers stable and practical.",
+    "fetched_at": "2026-04-09T07:13:35.646112"
+  },
+  {
+    "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193915.htm",
+    "published": "Tue, 07 Apr 2026 22:20:03 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Scientists have zoomed in on how phosphoric acid moves electrical charges so efficiently in both biology and technology. By freezing a key molecular pair to extremely low temperatures, they found it forms just one stable structure—contrary to predictions. This structure relies on a specific hydrogen-bond network that may be universal in similar systems. The discovery helps explain how protons travel so quickly and could inspire better energy materials.",
+    "fetched_at": "2026-04-09T07:13:35.646091"
+  },
+  {
+    "title": "The world’s “oldest octopus” was never an octopus",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193853.htm",
+    "published": "Tue, 07 Apr 2026 21:51:48 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A famous “oldest octopus” fossil has been exposed as a case of mistaken identity. Advanced imaging revealed hidden teeth showing it was actually related to a nautilus, not an octopus. The confusion came from decay that altered its shape before fossilization. This discovery rewrites part of evolutionary history, pushing the true origin of octopuses much later in time.",
+    "fetched_at": "2026-04-09T07:13:35.646117"
+  },
+  {
+    "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+    "published": "Tue, 07 Apr 2026 21:37:16 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
+    "fetched_at": "2026-04-09T07:13:35.646122"
+  },
+  {
+    "title": "Scientists discover reversible male birth control that stops sperm production",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm",
+    "published": "Tue, 07 Apr 2026 20:52:22 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Scientists at Cornell University may be closing in on the long-sought “holy grail” of male contraception: a safe, reversible, nonhormonal method that completely halts sperm production. In a breakthrough mouse study, researchers used a compound called JQ1 to temporarily shut down meiosis—the critical process that produces sperm—without causing lasting harm. After treatment stopped, sperm production bounced back, fertility returned, and the animals produced healthy offspring.",
+    "fetched_at": "2026-04-09T07:13:35.646127"
+  },
+  {
+    "title": "Your vitamin D levels in midlife could shape your brain decades later",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
+    "published": "Tue, 07 Apr 2026 07:47:09 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Vitamin D levels in midlife may play a bigger role in long-term brain health than previously thought. In a study following nearly 800 people over 16 years, those with higher vitamin D levels in their 30s and 40s had lower levels of tau protein later on, a key marker linked to dementia.",
+    "fetched_at": "2026-04-09T07:13:35.646132"
+  },
+  {
+    "title": "Cooper to urge full and toll-free reopening of Strait of Hormuz",
+    "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Apr 2026 06:46:26 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Foreign Secretary Yvette Cooper will call for shipping in the Strait of Hormuz to be toll-free and unhindered.",
+    "fetched_at": "2026-04-09T07:13:34.737611"
+  },
+  {
+    "title": "Oil prices rise as traders eye fragile US-Iran ceasefire",
+    "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Apr 2026 06:28:51 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "The cost of crude plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
+    "fetched_at": "2026-04-09T07:13:34.737631"
+  },
+  {
+    "title": "Process Manager for Autonomous AI Agents",
+    "link": "https://botctl.dev/",
+    "published": "Thu, 09 Apr 2026 06:00:55 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://botctl.dev/\">https://botctl.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47699814\">https://news.ycombinator.com/item?id=47699814</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "fetched_at": "2026-04-09T07:13:35.874442"
+  },
+  {
+    "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+    "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Apr 2026 05:57:18 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\".",
+    "fetched_at": "2026-04-09T07:13:34.737619"
+  },
+  {
+    "title": "Open Source Security at Astral",
+    "link": "https://astral.sh/blog/open-source-security-at-astral",
+    "published": "Thu, 09 Apr 2026 04:11:55 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://astral.sh/blog/open-source-security-at-astral\">https://astral.sh/blog/open-source-security-at-astral</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47699181\">https://news.ycombinator.com/item?id=47699181</a></p>\n<p>Points: 110</p>\n<p># Comments: 13</p>",
+    "fetched_at": "2026-04-09T07:13:35.874453"
+  },
+  {
+    "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+    "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Apr 2026 01:59:34 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+    "fetched_at": "2026-04-09T07:13:34.737583"
+  },
+  {
+    "title": "Jim Whittaker, the first American to summit Mount Everest, dies at 97",
+    "link": "https://www.npr.org/2026/04/09/g-s1-116847/mountaineer-jim-whittaker-dies",
+    "published": "Thu, 09 Apr 2026 01:22:24 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "The celebrated mountaineer, who also served as the first full-time employee of the outdoor retailer REI and later as its president and CEO, died Tuesday at his home in Port Townsend, Washington, his family said.",
+    "fetched_at": "2026-04-09T07:13:35.372528"
+  },
+  {
+    "title": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads",
+    "link": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads",
+    "published": "Thu, 09 Apr 2026 01:19:03 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "North Korea said its testing spree this week involved various new weapons systems, including ballistic missiles armed with cluster-bomb warheads, as it pushes to expand nuclear-capable forces.",
+    "fetched_at": "2026-04-09T07:13:35.372540"
+  },
+  {
+    "title": "Guatemalan man pleads guilty in federal court in crash that killed over 50 in Mexico",
+    "link": "https://www.npr.org/2026/04/09/g-s1-116845/man-plead-guilty-crash-mexico",
+    "published": "Thu, 09 Apr 2026 01:04:52 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "A man pleaded guilty Wednesday in federal court and acknowledged his involvement in an attempt to illegally smuggle migrants to the U.S. when a truck crashed in Mexico in 2021, killing more than 50.",
+    "fetched_at": "2026-04-09T07:13:35.372546"
+  },
+  {
+    "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+    "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Apr 2026 01:01:26 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+    "fetched_at": "2026-04-09T07:13:34.737625"
+  },
+  {
+    "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
+    "link": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire",
+    "published": "Thu, 09 Apr 2026 00:55:46 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire\">https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47698082\">https://news.ycombinator.com/item?id=47698082</a></p>\n<p>Points: 118</p>\n<p># Comments: 87</p>",
+    "fetched_at": "2026-04-09T07:13:35.874459"
+  },
+  {
+    "title": "LittleSnitch for Linux",
+    "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+    "published": "Thu, 09 Apr 2026 00:26:08 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://obdev.at/products/littlesnitch-linux/index.html\">https://obdev.at/products/littlesnitch-linux/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47697870\">https://news.ycombinator.com/item?id=47697870</a></p>\n<p>Points: 499</p>\n<p># Comments: 157</p>",
+    "fetched_at": "2026-04-09T07:13:35.874464"
+  },
+  {
+    "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
+    "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Apr 2026 00:01:40 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Those affected have been told their courses were never eligible for maintenance or childcare loans",
+    "fetched_at": "2026-04-09T07:13:34.737606"
+  },
+  {
+    "title": "Teen birth rates hit another historical low in 2025, CDC says",
+    "link": "https://www.npr.org/2026/04/09/nx-s1-5777587/teen-birth-rates-hit-another-historical-low-2025-cdc",
+    "published": "Thu, 09 Apr 2026 00:01:00 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "The teen birth rate continues its decades-long downward trend. Researchers say many factors are at play, including less sexual activity and more access to contraception and abortion.",
+    "fetched_at": "2026-04-09T07:13:35.372552"
+  }
+]

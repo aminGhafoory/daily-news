@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-09
+========================================
+
+Title: 'Even if Iran war ends now, farmers' costs will have to be passed on'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: Is Hormuz open yet?
+Source: Hacker News
+URL: https://www.ishormuzopenyet.com/
+----------------------------------------
+Title: John Deere to pay $99M in right-to-repair settlement
+Source: Hacker News
+URL: https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement
+----------------------------------------
+Title: Negotiators face huge task to close gaps in rival Iran peace proposals
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: USB for Software Developers: An introduction to writing userspace USB drivers
+Source: Hacker News
+URL: https://werwolv.net/posts/usb_for_sw_devs/
+----------------------------------------
+Title: Expanding Swift's IDE Support
+Source: Hacker News
+URL: https://swift.org/blog/expanding-swift-ide-support/
+----------------------------------------
+Title: Once seen as a war hero, Australian ex-soldier will stand trial for alleged war crimes
+Source: NPR News
+URL: https://www.npr.org/2026/04/08/nx-s1-5776855/once-seen-as-a-war-hero-australian-ex-soldier-will-stand-trial-for-alleged-war-crimes
+----------------------------------------
+Title: Israel says it hit Lebanon 100 times in just 10 minutes
+Source: BBC News
+URL: https://www.bbc.com/news/videos/c75k1p625ngo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Bill Gates will testify in the Epstein probe; Pam Bondi testimony postponed
+Source: NPR News
+URL: https://www.npr.org/2026/04/08/nx-s1-5777585/bill-gates-pam-bondi-epstein-house-oversight
+----------------------------------------
+Title: Show HN: Orange Juice – Small UX improvements that make HN easier to read
+Source: Hacker News
+URL: http://oj-hn.com/
+----------------------------------------
+Title: I've been waiting over a month for Anthropic to respond to my billing issue
+Source: Hacker News
+URL: https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/
+----------------------------------------
+Title: Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: What has the U.S. war with Iran accomplished?
+Source: NPR News
+URL: https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump
+----------------------------------------
+Title: Why OpenAI bought 'SportsCenter for Silicon Valley'
+Source: NPR News
+URL: https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley
+----------------------------------------
+Title: Greetings from downtown Cairo, where unpretentious cafés are part of centuries-old charm
+Source: NPR News
+URL: https://www.npr.org/2026/04/08/g-s1-116552/cairo-wust-el-balad-sheesha-cafe
+----------------------------------------
+Title: Democrats keep doing better in elections since Trump returned to office
+Source: NPR News
+URL: https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump
+----------------------------------------
+Title: Scientists say we’ve been wrong about what makes sprinters fast
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260407193911.htm
+----------------------------------------
+Title: Something just hit the Moon and left a bright new scar
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260407193919.htm
+----------------------------------------
+Title: Did a black hole just explode? This “impossible” particle may be the evidence
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260407193906.htm
+----------------------------------------
+Title: This walking robot could change how we search for life on Mars
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260407193902.htm
+----------------------------------------
