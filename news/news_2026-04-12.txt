@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-12
+========================================
+
+Title: Goodbye colonoscopy? New stool test detects 90% of colorectal cancers
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260409221823.htm
+----------------------------------------
+Title: US appeals court declares 158-year-old home distilling ban unconstitutional
+Source: Hacker News
+URL: https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional
+----------------------------------------
+Title: 'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Hungarians decide whether to end 16 years of Orbán rule and elect rival
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Why meaningful days look like nothing while you are living them
+Source: Hacker News
+URL: https://pilgrima.ge/p/the-grand-line
+----------------------------------------
+Title: Building a Z-Machine in the worst possible language – Whitebeard's Realm
+Source: Hacker News
+URL: https://whitebeard.blog/posts/building-a-z-machine-in-elm/
+----------------------------------------
+Title: Iran chose 'not to accept our terms', US VP Vance says after negotiations
+Source: BBC News
+URL: https://www.bbc.com/news/videos/cqj82xn9n8eo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How a dancer with ALS used brainwaves to perform live
+Source: Hacker News
+URL: https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/
+----------------------------------------
+Title: The End of Eleventy
+Source: Hacker News
+URL: https://brennan.day/the-end-of-eleventy/
+----------------------------------------
+Title: Software Preservation Group: C++ History Collection
+Source: Hacker News
+URL: https://softwarepreservation.computerhistory.org/c_plus_plus/
+----------------------------------------
+Title: High-Level Rust: Getting 80% of the Benefits with 20% of the Pain
+Source: Hacker News
+URL: https://hamy.xyz/blog/2026-01_high-level-rust
+----------------------------------------
+Title: We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Faisal Islam: Why the government is relaxed about Chinese car imports
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: More than 500 arrests at Palestine Action protest
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: White House ballroom construction can continue for now, appeals court says
+Source: NPR News
+URL: https://www.npr.org/2026/04/11/nx-s1-5782084/dc-appeals-court-trump-ballroom-bunker
+----------------------------------------
+Title: 'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston
+Source: BBC News
+URL: https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
+Source: Hacker News
+URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+----------------------------------------
+Title: Grand National 2026: I Am Maximus becomes two-time winner
+Source: BBC News
+URL: https://www.bbc.com/sport/horse-racing/articles/cgme42z1gjro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
+Source: Hacker News
+URL: https://zenodo.org/records/19513269
+----------------------------------------
+Title: Dark Castle
+Source: Hacker News
+URL: https://darkcastle.co.uk/
+----------------------------------------
