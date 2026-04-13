@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-13
+========================================
+
+Title: Wider licence extensions for pubs during World Cup
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce8jw1w1674o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The surprising reality of how teenage girls still define themselves
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Taking on CUDA with ROCm: 'One Step After Another'
+Source: Hacker News
+URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
+----------------------------------------
+Title: Olivier Awards 2026: Rachel Zegler's heroes, Bryan Cranston's nap schedule and more moments from the night
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: A perfectable programming language
+Source: Hacker News
+URL: https://alok.github.io/lean-pages/perfectable-lean/
+----------------------------------------
+Title: Swinney says Scottish independence referendum could be held in 2028
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Fighting assault allegations, Eric Swalwell suspends his bid for California governor
+Source: NPR News
+URL: https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california
+----------------------------------------
+Title: I ran Gemma 4 as a local model in Codex CLI
+Source: Hacker News
+URL: https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4
+----------------------------------------
+Title: Will Orbán's defeat change Hungary's relationship to the EU?
+Source: NPR News
+URL: https://www.npr.org/2026/04/12/nx-s1-5773328/will-orbans-defeat-change-hungarys-relationship-to-the-eu
+----------------------------------------
+Title: Viktor Orbán concedes defeat in historic Hungary election
+Source: NPR News
+URL: https://www.npr.org/2026/04/12/nx-s1-5773324/viktor-orban-concedes-defeat-in-historic-hungary-election
+----------------------------------------
+Title: The consequences of Hungary's election, for Viktor Orban and the world
+Source: NPR News
+URL: https://www.npr.org/2026/04/12/nx-s1-5773326/the-consequences-of-hungarys-election-for-viktor-orban-and-the-world
+----------------------------------------
+Title: Hungary's Viktor Orbán concedes defeat, ending 16 years in power
+Source: NPR News
+URL: https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat
+----------------------------------------
+Title: Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260411022029.htm
+----------------------------------------
+Title: Neandertals may have hunted and eaten outsiders, chilling cannibalism study finds
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260411022044.htm
+----------------------------------------
+Title: 110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260412071005.htm
+----------------------------------------
+Title: How aggressive breast cancer turns off the immune system
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260411022031.htm
+----------------------------------------
+Title: Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260411022027.htm
+----------------------------------------
+Title: Life on Mars? Tiny cells just survived shock waves and toxic soil
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260411022033.htm
+----------------------------------------
+Title: Two simple eating habits linked to lower weight, study finds
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260411090018.htm
+----------------------------------------
+Title: Unusual airborne toxin detected in the U.S. for the first time
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260411084441.htm
+----------------------------------------
