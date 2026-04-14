@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-14
+========================================
+
+Title: Former Nato chief warns UK's national security 'in peril'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Harry and Meghan arrive in Australia for four-day tour
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Oasis among record number of British acts entering Rock & Roll Hall of Fame
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c9qd5537zxpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Can Claude Fly a Plane?
+Source: Hacker News
+URL: https://so.long.thanks.fish/can-claude-fly-a-plane/
+----------------------------------------
+Title: Distributed DuckDB Instance
+Source: Hacker News
+URL: https://github.com/citguru/openduck
+----------------------------------------
+Title: Roblox devs now need a subscription to share their games freely
+Source: Hacker News
+URL: https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166
+----------------------------------------
+Title: Multi-Agentic Software Development Is a Distributed Systems Problem
+Source: Hacker News
+URL: https://kirancodes.me/posts/log-distributed-llms.html
+----------------------------------------
+Title: UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism
+Source: Hacker News
+URL: https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf
+----------------------------------------
+Title: TanStack Start Now Support React Server Components
+Source: Hacker News
+URL: https://tanstack.com/blog/react-server-components
+----------------------------------------
+Title: Founder of China's Evergrande pleads guilty to fraud
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Chris Mason: How Lammy and Vance's unlikely friendship is being leveraged
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clye0jr8wpxo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Greek police using masked migrants to forcibly push other migrants back across border
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Watchdog investigates 11 police officers over handling of Wimbledon school crash
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1d96220wyro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)
+Source: Hacker News
+URL: https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/
+----------------------------------------
+Title: A new spam policy for "back button hijacking"
+Source: Hacker News
+URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking
+----------------------------------------
+Title: Sometimes powerful people just do dumb shit
+Source: Hacker News
+URL: https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/
+----------------------------------------
+Title: DaVinci Resolve releases Photo Editor
+Source: Hacker News
+URL: https://www.blackmagicdesign.com/products/davinciresolve/photo
+----------------------------------------
+Title: U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class
+Source: NPR News
+URL: https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class
+----------------------------------------
+Title: Stanford scientists discover “natural Ozempic” without side effects
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260412221946.htm
+----------------------------------------
+Title: 110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260412071005.htm
+----------------------------------------
