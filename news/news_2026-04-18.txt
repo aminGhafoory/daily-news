@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-18
+========================================
+
+Title: Scientists discover natural hormone that reverses obesity
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260416071954.htm
+----------------------------------------
+Title: Scientists supercharge immune cells to destroy cancer more effectively
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260416072001.htm
+----------------------------------------
+Title: A “death” protein may be the key to slowing aging at its source
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260416071951.htm
+----------------------------------------
+Title: Scientists remove “zombie” cells and reverse liver damage in mice
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260416071947.htm
+----------------------------------------
+Title: MIT scientists just found a hidden problem slowing the ozone comeback
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260416071945.htm
+----------------------------------------
+Title: Orbán's era was over in a flash and Hungary's next PM is a man in a hurry
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: I made a calculator that works over disjoint sets of intervals
+Source: Hacker News
+URL: https://victorpoughon.github.io/interval-calculator/
+----------------------------------------
+Title: Casus Belli Engineering
+Source: Hacker News
+URL: https://marcosmagueta.com/blog/casus-belli-engineering/
+----------------------------------------
+Title: 'Staggering' I was not told Mandelson failed vetting, says PM
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Pregnancy vaccine reduces baby hospital admissions for RSV by 80%
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Mortgage rates show signs of falling after Iran war peak
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'I'm the lucky one' - more than one in three young men now live with their parents
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: My weekly juggling act - being a teacher to other children and a mum to my own
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5yvvr5z2pro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Coachella campers are turning tents fancy - and not all Brits are happy
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Endangered British dishes - and the home cooks reviving them
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cje4pl85pxwo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Landmark ancient-genome study shows surprise acceleration of human evolution
+Source: Hacker News
+URL: https://www.nature.com/articles/d41586-026-01204-5
+----------------------------------------
+Title: Judge halts local TV giant Nexstar's takeover of rival Tegna until trial
+Source: NPR News
+URL: https://www.npr.org/2026/04/17/nx-s1-5789059/judge-halts-nexstar-tegna-merger-lawsuits
+----------------------------------------
+Title: A simplified model of Fil-C
+Source: Hacker News
+URL: https://www.corsix.org/content/simplified-model-of-fil-c
+----------------------------------------
+Title: Chris Mason: Mandelson saga is a messy palaver - and the questions continue to swirl
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cwydex228vko?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4
+Source: Hacker News
+URL: https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead
+----------------------------------------

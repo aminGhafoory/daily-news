@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Scientists discover natural hormone that reverses obesity",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071954.htm",
+    "published": "Thu, 16 Apr 2026 23:49:55 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A hormone called FGF21 can reverse obesity in mice by activating a newly identified brain circuit tied to metabolism. Surprisingly, it works in the hindbrain—the same region targeted by GLP-1 drugs like Ozempic and Wegovy—but through a completely different mechanism. Instead of suppressing appetite, FGF21 ramps up the body’s energy burning. This insight could pave the way for more targeted weight-loss and liver disease treatments.",
+    "fetched_at": "2026-04-18T06:59:05.480321"
+  },
+  {
+    "title": "Scientists supercharge immune cells to destroy cancer more effectively",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416072001.htm",
+    "published": "Thu, 16 Apr 2026 23:28:07 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Researchers have found a way to make cancer-killing immune cells more powerful and precise. By adding specific signaling components, they boosted the cells’ readiness to attack tumors. Surprisingly, briefly suppressing the cells with a drug before use made them even more effective later. The approach could help create safer, stronger next-gen cancer treatments.",
+    "fetched_at": "2026-04-18T06:59:05.480300"
+  },
+  {
+    "title": "A “death” protein may be the key to slowing aging at its source",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071951.htm",
+    "published": "Thu, 16 Apr 2026 22:58:28 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Scientists have discovered that a protein linked to cell death is secretly driving the aging of blood stem cells in a completely different way. Instead of killing the cells, it damages their mitochondria, sapping their energy and weakening the immune system over time. When this protein was turned off, stem cells remained stronger and more balanced, even under stress. The findings point to a new strategy for slowing aging at its source.",
+    "fetched_at": "2026-04-18T06:59:05.480332"
+  },
+  {
+    "title": "Scientists remove “zombie” cells and reverse liver damage in mice",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071947.htm",
+    "published": "Thu, 16 Apr 2026 07:59:44 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A rogue set of “zombie” immune cells may be driving aging and fatty liver disease by flooding tissues with inflammation. Researchers found these cells accumulate with age and high cholesterol—and can make up most of the liver’s immune cells in older mice. When scientists removed them, liver damage was dramatically reversed, even without diet changes.",
+    "fetched_at": "2026-04-18T06:59:05.480337"
+  },
+  {
+    "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071945.htm",
+    "published": "Thu, 16 Apr 2026 07:53:40 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "The ozone layer has been on track to recover thanks to the Montreal Protocol—but a loophole may be holding it back. Chemicals still permitted for industrial use are leaking into the atmosphere at higher rates than expected. Scientists now estimate this could delay ozone recovery by up to seven years. Closing this gap could speed up healing and reduce harmful UV exposure worldwide.",
+    "fetched_at": "2026-04-18T06:59:05.480342"
+  },
+  {
+    "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
+    "link": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Apr 2026 04:46:34 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
+    "fetched_at": "2026-04-18T06:59:03.939199"
+  },
+  {
+    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "link": "https://victorpoughon.github.io/interval-calculator/",
+    "published": "Sat, 18 Apr 2026 01:15:43 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>I've been studying interval arithmetic for the past few weeks and it's a really interesting field because while there is a ton of super interesting research published over the past decades, it has never really gotten the recognition that it deserves, IMO.<p>One reason for this is that standard interval arithmetic has really poor handling of division by intervals containing zero. If you compute 1 / [-1, 2] in regular interval arithmetic, you get either [-∞, +∞], or you have to say that the operation is undefined. Both solutions are virtually useless. The real answer of course is [-∞, -1] U [0.5, +∞]: i.e. a union of two disjoint intervals.<p>This is useful because you can confidently exclude a non empty set of the real numbers ([-1, 0.5]) from the set of possible values that you can get by dividing 1 by a number between -1 and 2.<p>But this definition of interval division yields a value that is not an interval. This is a problem if you want to define a closed arithmetic system, where you can build and evaluate arbitrary expression over interval values.<p>(This behavior extends to any non continuous function like tan() for example, which is implemented in my project - not without difficulties!)<p>Well the obvious solution is to define your arithmetic over disjoint unions of intervals. This is the subject of a 2017 paper called \"Interval Unions\" by by Schichl, H., Domes, F., Montanher, T. and Kofler, K..<p>This open-source project I made implements interval union arithmetic in TypeScript in the form of a simple interactive calculator, so you can try it out for yourself! The underlying TypeScript library is dependency free and implements interval union arithmetic over IEEE 754 double precision floats (JS native number type) with outward rounding. This guarantees accuracy of interval results in the presence of rounding issue inherent to floating point.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47812341\">https://news.ycombinator.com/item?id=47812341</a></p>\n<p>Points: 89</p>\n<p># Comments: 8</p>",
+    "fetched_at": "2026-04-18T06:59:05.827905"
+  },
+  {
+    "title": "Casus Belli Engineering",
+    "link": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+    "published": "Sat, 18 Apr 2026 01:14:02 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://marcosmagueta.com/blog/casus-belli-engineering/\">https://marcosmagueta.com/blog/casus-belli-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47812331\">https://news.ycombinator.com/item?id=47812331</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
+    "fetched_at": "2026-04-18T06:59:05.827915"
+  },
+  {
+    "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
+    "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Apr 2026 00:00:19 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "The PM is facing calls to resign over the revelation that Lord Mandelson did not pass security checks.",
+    "fetched_at": "2026-04-18T06:59:03.939137"
+  },
+  {
+    "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
+    "link": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 23:35:23 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
+    "fetched_at": "2026-04-18T06:59:03.939174"
+  },
+  {
+    "title": "Mortgage rates show signs of falling after Iran war peak",
+    "link": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 23:33:10 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
+    "fetched_at": "2026-04-18T06:59:03.939162"
+  },
+  {
+    "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
+    "link": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 23:16:33 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold.",
+    "fetched_at": "2026-04-18T06:59:03.939168"
+  },
+  {
+    "title": "My weekly juggling act - being a teacher to other children and a mum to my own",
+    "link": "https://www.bbc.com/news/articles/c5yvvr5z2pro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 23:06:15 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Many teachers say they struggle to balance the pressures of their job with the demands of being a parent.",
+    "fetched_at": "2026-04-18T06:59:03.939194"
+  },
+  {
+    "title": "Coachella campers are turning tents fancy - and not all Brits are happy",
+    "link": "https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 23:05:09 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Campers are being judged for over-the-top tent set ups at this year's festival in California.",
+    "fetched_at": "2026-04-18T06:59:03.939179"
+  },
+  {
+    "title": "Endangered British dishes - and the home cooks reviving them",
+    "link": "https://www.bbc.com/news/articles/cje4pl85pxwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 23:04:40 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Carrageen pudding and Staffordshire clangers might no longer be household staples, but some home chefs are bringing them back.",
+    "fetched_at": "2026-04-18T06:59:03.939187"
+  },
+  {
+    "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+    "link": "https://www.nature.com/articles/d41586-026-01204-5",
+    "published": "Fri, 17 Apr 2026 22:30:28 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Related: <i>Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=47791282\">https://news.ycombinator.com/item?id=47791282</a> (64 comments)<p><a href=\"https://x.com/doctorveera/status/2044679999450664967\" rel=\"nofollow\">https://x.com/doctorveera/status/2044679999450664967</a> (<a href=\"https://xcancel.com/doctorveera/status/2044679999450664967\" rel=\"nofollow\">https://xcancel.com/doctorveera/status/2044679999450664967</a>)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47811283\">https://news.ycombinator.com/item?id=47811283</a></p>\n<p>Points: 67</p>\n<p># Comments: 61</p>",
+    "fetched_at": "2026-04-18T06:59:05.827921"
+  },
+  {
+    "title": "Judge halts local TV giant Nexstar's takeover of rival Tegna until trial",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5789059/judge-halts-nexstar-tegna-merger-lawsuits",
+    "published": "Fri, 17 Apr 2026 22:24:06 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "U.S. Judge Trevor Nunley ruled that consumers could suffer irreparable harm if Nexstar integrated Tegna's stations into its own operations ahead of an antitrust trial.",
+    "fetched_at": "2026-04-18T06:59:05.221473"
+  },
+  {
+    "title": "A simplified model of Fil-C",
+    "link": "https://www.corsix.org/content/simplified-model-of-fil-c",
+    "published": "Fri, 17 Apr 2026 21:38:20 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://www.corsix.org/content/simplified-model-of-fil-c\">https://www.corsix.org/content/simplified-model-of-fil-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47810872\">https://news.ycombinator.com/item?id=47810872</a></p>\n<p>Points: 155</p>\n<p># Comments: 78</p>",
+    "fetched_at": "2026-04-18T06:59:05.827926"
+  },
+  {
+    "title": "Chris Mason: Mandelson saga is a messy palaver - and the questions continue to swirl",
+    "link": "https://www.bbc.com/news/articles/cwydex228vko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 21:17:43 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Sir Keir and the top official at the Foreign Office at the time are expected to face questions from MPs next week.",
+    "fetched_at": "2026-04-18T06:59:03.939150"
+  },
+  {
+    "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
+    "link": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+    "published": "Fri, 17 Apr 2026 21:00:08 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead\">https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47810507\">https://news.ycombinator.com/item?id=47810507</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "fetched_at": "2026-04-18T06:59:05.827931"
+  },
+  {
+    "title": "Deaths of migrants in ICE custody hit record high under Trump",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump",
+    "published": "Fri, 17 Apr 2026 20:39:50 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Twenty-nine people have died in ICE custody since October, the start of the federal government's fiscal year, already surpassing 2004's toll of 28, the previous record, according to government data.",
+    "fetched_at": "2026-04-18T06:59:05.221484"
+  },
+  {
+    "title": "\"cat readme.txt\" is not safe if you use iTerm2",
+    "link": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
+    "published": "Fri, 17 Apr 2026 18:43:32 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not\">https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47809190\">https://news.ycombinator.com/item?id=47809190</a></p>\n<p>Points: 159</p>\n<p># Comments: 84</p>",
+    "fetched_at": "2026-04-18T06:59:05.827936"
+  },
+  {
+    "title": "Animal activists celebrate their first global 'Sanctuary Day'",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day",
+    "published": "Fri, 17 Apr 2026 18:26:45 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "It's been 40 years since animal advocates founded a sanctuary for farm animals in New York and California, and they say April 17 is their first global sanctuary day.",
+    "fetched_at": "2026-04-18T06:59:05.221490"
+  },
+  {
+    "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+    "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+    "published": "Fri, 17 Apr 2026 18:17:01 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon\">https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47808913\">https://news.ycombinator.com/item?id=47808913</a></p>\n<p>Points: 302</p>\n<p># Comments: 177</p>",
+    "fetched_at": "2026-04-18T06:59:05.827941"
+  },
+  {
+    "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+    "link": "https://github.com/smol-machines/smolvm",
+    "published": "Fri, 17 Apr 2026 17:18:58 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://github.com/smol-machines/smolvm\">https://github.com/smol-machines/smolvm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47808268\">https://news.ycombinator.com/item?id=47808268</a></p>\n<p>Points: 306</p>\n<p># Comments: 93</p>",
+    "fetched_at": "2026-04-18T06:59:05.827946"
+  },
+  {
+    "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+    "link": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
+    "published": "Fri, 17 Apr 2026 17:01:13 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering\">https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47808047\">https://news.ycombinator.com/item?id=47808047</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "fetched_at": "2026-04-18T06:59:05.827951"
+  },
+  {
+    "title": "A man wrongfully served 17 years for rape. Now another man has been convicted",
+    "link": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Apr 2026 16:39:42 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Malkinson had his rape conviction quashed in 2023 after fresh DNA analysis linked a new suspect to the offence.",
+    "fetched_at": "2026-04-18T06:59:03.939157"
+  },
+  {
+    "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+    "link": "https://github.com/paniclock/paniclock/",
+    "published": "Fri, 17 Apr 2026 16:38:44 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations.<p><a href=\"https://www.yahoo.com/news/articles/washington-post-raid-proves-face-153402560.html\" rel=\"nofollow\">https://www.yahoo.com/news/articles/washington-post-raid-pro...</a><p>Edit: I've a lot more details about the legality and precedence on the apps landing page <a href=\"https://paniclock.github.io/\" rel=\"nofollow\">https://paniclock.github.io/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47807809\">https://news.ycombinator.com/item?id=47807809</a></p>\n<p>Points: 176</p>\n<p># Comments: 67</p>",
+    "fetched_at": "2026-04-18T06:59:05.827956"
+  },
+  {
+    "title": "Gasoline could drop below $4 in coming days",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran",
+    "published": "Fri, 17 Apr 2026 14:47:31 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Gasoline costs should start to fall soon, although a full recovery to pre-war prices is expected to take months. That's assuming that peace holds and traffic flows resume through the Strait of Hormuz.<br /><br />",
+    "fetched_at": "2026-04-18T06:59:05.221495"
+  },
+  {
+    "title": "Why scientists are nervous about fungi",
+    "link": "https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection",
+    "published": "Fri, 17 Apr 2026 09:14:18 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "They can pose a threat to human health — yeast infections are but one example. Scientists say not enough attention is paid to their ability to develop resistance to medications that treat them.",
+    "fetched_at": "2026-04-18T06:59:05.221500"
+  },
+  {
+    "title": "A “lost world” beneath the North Sea was once full of forests",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071959.htm",
+    "published": "Fri, 17 Apr 2026 08:46:58 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Long before rising seas swallowed Doggerland beneath the North Sea, this lost landscape may have been a surprisingly lush and life-friendly haven. New DNA evidence reveals that forests of oak, elm, and hazel were already thriving there more than 16,000 years ago—thousands of years earlier than scientists thought possible. Even more astonishing, researchers detected traces of a tree species believed to have vanished from the region hundreds of thousands of years ago.",
+    "fetched_at": "2026-04-18T06:59:05.480306"
+  },
+  {
+    "title": "The Strait of Hormuz opens for commercial ships but the U.S. blockade continues on Iran",
+    "link": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates",
+    "published": "Fri, 17 Apr 2026 08:36:18 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Iran's foreign minister declared the Strait of Hormuz is open, following the start of an Israel-Lebanon ceasefire. President Trump swiftly responded that the U.S. naval blockade on Iran will continue.",
+    "fetched_at": "2026-04-18T06:59:05.221505"
+  },
+  {
+    "title": "Scientists warn of 3,100 “surging glaciers” that can trigger floods and avalanches",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071958.htm",
+    "published": "Fri, 17 Apr 2026 08:28:25 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A hidden threat is emerging in the world’s glaciers: while most are shrinking, a rare group known as “surging glaciers” can suddenly accelerate, unleashing powerful and sometimes destructive events. Scientists have identified over 3,100 of these glaciers worldwide, with many clustered in high-risk regions like the Arctic and the Karakoram Mountains, where communities lie directly in their path.",
+    "fetched_at": "2026-04-18T06:59:05.480311"
+  },
+  {
+    "title": "This chain of atoms can detect electric fields with stunning precision",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071956.htm",
+    "published": "Fri, 17 Apr 2026 07:56:32 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A new quantum sensing approach could dramatically improve how scientists measure low-frequency electric fields, a task that has long been limited by bulky setups and blurry resolution. Instead of relying on traditional vapor-cell methods, researchers developed a system using chains of highly sensitive Rydberg atoms that respond collectively to electric fields. As the field shifts, it subtly changes how these atoms interact, allowing both the strength and direction of the field to be decoded with remarkable precision.",
+    "fetched_at": "2026-04-18T06:59:05.480316"
+  },
+  {
+    "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
+    "published": "Fri, 17 Apr 2026 07:44:05 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Scientists have uncovered a surprising twist in how bacteria share genes—including those that spread antibiotic resistance. Tiny virus-like particles called gene transfer agents (GTAs), once ancient viral invaders, have been repurposed by bacteria into delivery systems that shuttle DNA between neighboring cells. The study reveals a key control hub of three genes, dubbed LypABC, that triggers bacterial cells to burst open and release these DNA-packed couriers.",
+    "fetched_at": "2026-04-18T06:59:05.480327"
+  },
+  {
+    "title": "Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.",
+    "link": "https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs",
+    "published": "Fri, 17 Apr 2026 07:06:48 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "A 10-day ceasefire to pause fighting between Israel and Hezb",
+    "fetched_at": "2026-04-18T06:59:05.221509"
+  },
+  {
+    "title": "Who says they have no fear of the Trump administration? The quiz knows",
+    "link": "https://www.npr.org/2026/04/17/g-s1-117603/pope-trump-fela-swalwell-picasso-news-quiz",
+    "published": "Fri, 17 Apr 2026 05:01:00 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Also: If you know what Eric Swalwell looks like, you'll get at least one question correct.",
+    "fetched_at": "2026-04-18T06:59:05.221514"
+  },
+  {
+    "title": "Human rights groups raise alarm over fate of Salvadorans deported from U.S.",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5721174/rights-groups-raise-alarm-over-fate-of-salvadorans-deported-from-us-trump",
+    "published": "Fri, 17 Apr 2026 05:00:00 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Migrants deported from the U.S. routinely disappear into El Salvador's prisons the moment they land or in the weeks that follow. Many remain incommunicado from family and lawyers for  years.",
+    "fetched_at": "2026-04-18T06:59:05.221519"
+  },
+  {
+    "title": "Do less, ask for more: How to make life easier as a working parent",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5787794/return-to-work-baby-schedule-adjustment-parental-leave",
+    "published": "Fri, 17 Apr 2026 05:00:00 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Going back to work after having a baby can be overwhelming. You're juggling all the emotions of being a new parent while getting up to speed at your job. Tips to help you make a smooth transition.",
+    "fetched_at": "2026-04-18T06:59:05.221525"
+  },
+  {
+    "title": "Can sparkling water boost metabolism and help with weight loss?",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
+    "published": "Fri, 17 Apr 2026 03:17:58 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, the effect is very small, meaning it’s no substitute for diet and exercise.",
+    "fetched_at": "2026-04-18T06:59:05.480290"
+  }
+]
