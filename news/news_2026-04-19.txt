@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-19
+========================================
+
+Title: Australia's most-decorated soldier vows to 'fight' war crime charges
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Foreign secretary concerned ministers not told of Mandelson vetting fears sooner
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The Little Probe That Could: Why Voyager 1 Matters, and Why NASA Just Switched Part of It Off
+Source: NPR News
+URL: https://www.npr.org/2026/04/19/nx-s1-5789935/voyager-1-probe-nasa
+----------------------------------------
+Title: Police treating arson attack as antisemitic hate crime
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cqxl1qr11q2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating
+Source: Hacker News
+URL: https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/
+----------------------------------------
+Title: Scientists say this type of olive oil could boost brain power
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260417224527.htm
+----------------------------------------
+Title: Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'Croatia, but cheaper': The quirky holiday spots on trend for 2026
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c747r0l8n7do?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Should you really trust health advice from an AI chatbot?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyepyy82kxo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scammers are becoming ever more sophisticated - this is what the fightback looks like
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: New charity to remember Queen Elizabeth 100 years since her birth
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cre1l2q7329o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Zero-Copy GPU Inference from WebAssembly on Apple Silicon
+Source: Hacker News
+URL: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/
+----------------------------------------
+Title: The South Korean authors rising above a tide of hate to become bestsellers
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: My first impressions on ROCm and Strix Halo
+Source: Hacker News
+URL: https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/
+----------------------------------------
+Title: North Korea launches ballistic missiles toward sea
+Source: NPR News
+URL: https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles
+----------------------------------------
+Title: NIST scientists create 'any wavelength' lasers
+Source: Hacker News
+URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
+----------------------------------------
+Title: Optimizing Ruby Path Methods
+Source: Hacker News
+URL: https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html
+----------------------------------------
+Title: US Coast Guard spots overturned vessel near Saipan during search for missing ship
+Source: NPR News
+URL: https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana
+----------------------------------------
+Title: Thoughts and feelings around Claude Design
+Source: Hacker News
+URL: https://samhenri.gold/blog/20260418-claude-design/
+----------------------------------------
