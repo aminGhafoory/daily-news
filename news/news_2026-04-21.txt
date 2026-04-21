@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-21
+========================================
+
+Title: UK unemployment rate sees surprise fall to 4.9%
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: High electricity bills targeted in planned shakeup to energy pricing
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Less human AI agents, please
+Source: Hacker News
+URL: https://nial.se/blog/less-human-ai-agents-please/
+----------------------------------------
+Title: Using Changesets in a polyglot monorepo
+Source: Hacker News
+URL: https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/
+----------------------------------------
+Title: Louis Zocchi, inventor of the d100, has died
+Source: Hacker News
+URL: https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice
+----------------------------------------
+Title: A mad undertaking: An undefinitive guide to the Aadam Jacobs collection
+Source: Hacker News
+URL: https://aadamjacobscollection.org/
+----------------------------------------
+Title: Types and Neural Networks
+Source: Hacker News
+URL: https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html
+----------------------------------------
+Title: King honours his 'darling Mama', the late Queen, on her centenary
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cz9077ezlpno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Chris Mason: A chance for key aide to explain why he didn't tell Starmer
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czrezg3vyzjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Apple names new boss to replace Tim Cook after 15 years
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: London Tube driver strike to begin at midday
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1l9115rr7jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The Beauty of Bonsai Styles
+Source: Hacker News
+URL: https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles
+----------------------------------------
+Title: A Roblox cheat and one AI tool brought down Vercel's platform
+Source: Hacker News
+URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform
+----------------------------------------
+Title: Anthropic says OpenClaw-style Claude CLI usage is allowed again
+Source: Hacker News
+URL: https://docs.openclaw.ai/providers/anthropic
+----------------------------------------
+Title: If Plaid win in Wales, that won't mean independence - at least not yet
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c9958227r38o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Prediction markets are breaking the news and becoming their own beat
+Source: Hacker News
+URL: https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/
+----------------------------------------
+Title: Gunman shoots several tourists at historic pyramids in Mexico
+Source: NPR News
+URL: https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico
+----------------------------------------
+Title: Cuba confirms meeting with US officials on island, wants energy blockade lifted
+Source: NPR News
+URL: https://www.npr.org/2026/04/21/g-s1-118182/cuba-meeting-with-us-officials-on-island
+----------------------------------------
+Title: US singer D4vd pleads not guilty to murder in death of missing teen girl
+Source: BBC News
+URL: https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How to make a fast dynamic language interpreter
+Source: Hacker News
+URL: https://zef-lang.dev/implementation
+----------------------------------------
