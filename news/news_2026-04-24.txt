@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-24
+========================================
+
+Title: This simple fatty acid could restore failing vision
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260422091043.htm
+----------------------------------------
+Title: Ringo Starr: 'I made all my mistakes on stage'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases
+Source: Hacker News
+URL: https://github.com/refactoringhq/tolaria
+----------------------------------------
+Title: US special forces soldier arrested after allegedly winning $400k on Maduro raid
+Source: Hacker News
+URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
+----------------------------------------
+Title: TorchTPU: Running PyTorch Natively on TPUs at Google Scale
+Source: Hacker News
+URL: https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/
+----------------------------------------
+Title: No rape took place outside Epsom church, say police
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c86ezy3qvjno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: U.S. soldier charged with using classified information to bet on Maduro's removal
+Source: NPR News
+URL: https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-polymarket-insider
+----------------------------------------
+Title: French police probe suspected weather device tampering after odd Polymarket bet
+Source: NPR News
+URL: https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet
+----------------------------------------
+Title: Hidden voids found in Menkaure pyramid hint at secret entrance
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423031525.htm
+----------------------------------------
+Title: Ancient mass grave reveals how a pandemic wiped out a city 1,500 years ago
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423031540.htm
+----------------------------------------
+Title: The FDA gives the green light to the first gene therapy for deafness
+Source: NPR News
+URL: https://www.npr.org/2026/04/23/nx-s1-5795526/deafness-gene-therapy-regeneron
+----------------------------------------
+Title: Meta will lay off 10% of its staff
+Source: NPR News
+URL: https://www.npr.org/2026/04/23/nx-s1-5797855/meta-layoffs-10-percent-staff
+----------------------------------------
+Title: Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies
+Source: NPR News
+URL: https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs
+----------------------------------------
+Title: Author details the spy network that took on America's post-WWII Nazi groups
+Source: NPR News
+URL: https://www.npr.org/2026/04/23/nx-s1-5797402/author-details-the-spy-network-that-took-on-americas-post-wwii-nazi-groups
+----------------------------------------
+Title: Can a mentalist trick Trump? Oz Pearlman will try in a room full of journalists
+Source: NPR News
+URL: https://www.npr.org/2026/04/23/nx-s1-5786573/oz-pearlman-mentalist-white-house-correspondents-dinner
+----------------------------------------
+Title: AI just discovered new physics in the fourth state of matter
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260422044635.htm
+----------------------------------------
+Title: These 80-year-olds have the memory of 50-year-olds. Scientists now know why
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423022006.htm
+----------------------------------------
+Title: For the first time, scientists pinpoint the brain cells behind depression
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423022010.htm
+----------------------------------------
+Title: Simple “gut reset” may stop weight gain after Ozempic or Wegovy
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423022002.htm
+----------------------------------------
+Title: This new brain-like chip could slash AI energy use by 70%
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260422044633.htm
+----------------------------------------
