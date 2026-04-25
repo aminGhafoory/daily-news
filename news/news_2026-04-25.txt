@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-25
+========================================
+
+Title: Hidden voids found in Menkaure pyramid hint at secret entrance
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423031525.htm
+----------------------------------------
+Title: Ancient mass grave reveals how a pandemic wiped out a city 1,500 years ago
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423031540.htm
+----------------------------------------
+Title: Scientists find perfect fossils in rust beneath Australian farmland
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260423031536.htm
+----------------------------------------
+Title: Falklands veteran hopes King can persuade Trump to 'back down'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: New 10 GbE USB adapters are cooler, smaller, cheaper
+Source: Hacker News
+URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
+----------------------------------------
+Title: 'Animals are traumatised too': Pet rescuers under fire in Ukraine
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn783emlgdno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Oxford All Souls College General Examination (2025) [pdf]
+Source: Hacker News
+URL: https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf
+----------------------------------------
+Title: Turbo Vision 2.0 – a modern port
+Source: Hacker News
+URL: https://github.com/magiblot/tvision
+----------------------------------------
+Title: Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks
+Source: NPR News
+URL: https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates
+----------------------------------------
+Title: Firefox Has Integrated Brave's Adblock Engine
+Source: Hacker News
+URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
+----------------------------------------
+Title: Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do
+Source: Hacker News
+URL: https://alash3al.github.io/stash?_v01
+----------------------------------------
+Title: Touring is a costly struggle for bands like us. Now Harry Styles is helping
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c2lwy12j2j8o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: (Blender) Cosmology with Geometry Nodes
+Source: Hacker News
+URL: https://www.blender.org/user-stories/cosmology-with-geometry-nodes/
+----------------------------------------
+Title: "Plain text has been around for decades and it's here to stay." – Unsung
+Source: Hacker News
+URL: https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/
+----------------------------------------
+Title: Replace IBM Quantum back end with /dev/urandom
+Source: Hacker News
+URL: https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md
+----------------------------------------
+Title: Loud eaters and phones nearly spoiled my cinema trip - and it's not just me
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c2482ql0zp4o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Education must go beyond the mere production of words
+Source: Hacker News
+URL: https://www.ncregister.com/commentaries/schnell-repairing-the-ruins
+----------------------------------------
+Title: Katya Adler: Europe's Nato allies push back at reported US threat to Spain
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: King's 'high stakes' visit with Trump will be toughest test yet of his reign
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce35xkgjqd5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Thousands at risk after multi-million dollar Everest flood warning system left to rust
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss
+----------------------------------------
