@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-26
+========================================
+
+Title: Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)
+Source: Hacker News
+URL: https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health
+----------------------------------------
+Title: The West Forgot How to Make Things. Now It's Forgetting How to Code
+Source: Hacker News
+URL: https://techtrenches.dev/p/the-west-forgot-how-to-make-things
+----------------------------------------
+Title: In pictures: Chaos as gunfire heard in ballroom
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cgk0ky5zgvlo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How old is the oldest runner? Take our London Marathon quiz
+Source: BBC News
+URL: https://www.bbc.com/sport/athletics/articles/cm2k5gndrleo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice
+Source: Hacker News
+URL: https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/
+----------------------------------------
+Title: Show HN: Browse GitHub repos in Emacs without cloning
+Source: Hacker News
+URL: https://github.com/agzam/remoto.el
+----------------------------------------
+Title: Video shows correspondents' dinner suspect charge checkpoint
+Source: BBC News
+URL: https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: What it was like in the room as shots rang out at correspondents' dinner
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: What we know about the shooting incident at the White House Correspondents' Dinner
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cdxd1x2qw2go?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'You just didn't know': Gary O'Donoghue describes confusion and fears at correspondents' dinner
+Source: BBC News
+URL: https://www.bbc.com/news/videos/c8dldp2mdego?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: EU Age Control: The trojan horse for digital IDs
+Source: Hacker News
+URL: https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/
+----------------------------------------
+Title: GnuPG – post-quantum crypto landing in mainline
+Source: Hacker News
+URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html
+----------------------------------------
+Title: Starmer insists 'majority' of Labour MPs back his leadership
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c705228kpx9o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Reviving BrowserID in 2026
+Source: Hacker News
+URL: https://wakamoleguy.com/p/reviving-browserid-in-2026
+----------------------------------------
+Title: Moment Trump rushed to safety after gunshots heard at venue
+Source: BBC News
+URL: https://www.bbc.com/news/videos/crm1gm7ez30o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Fish oil may be hurting your brain, new study finds
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260426012303.htm
+----------------------------------------
+Title: Graphene kills harmful bacteria “superbugs” but spares human cells
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260424233210.htm
+----------------------------------------
+Title: Tell HN: An app is silently installing itself on my iPhone every day
+Source: Hacker News
+URL: https://news.ycombinator.com/item?id=47906253
+----------------------------------------
+Title: The Super Nintendo Cartridges (2024)
+Source: Hacker News
+URL: https://fabiensanglard.net/snes_carts/
+----------------------------------------
+Title: Why has there been so little progress on Alzheimer's disease?
+Source: Hacker News
+URL: https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/
+----------------------------------------
