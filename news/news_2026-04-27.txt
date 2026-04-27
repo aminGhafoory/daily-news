@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-27
+========================================
+
+Title: UK's biggest ever environmental pollution claim reaches High Court
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: FreeBSD Device Drivers Book
+Source: Hacker News
+URL: https://github.com/ebrandi/FDD-book
+----------------------------------------
+Title: Death toll in Colombia highway bus bomb attack rises to 20
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ckgx5kyyj8do?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Alleged Colorado attacker's family released after nearly a year in detention
+Source: NPR News
+URL: https://www.npr.org/2026/04/26/nx-s1-5800196/alleged-colorado-attacker-family-released-detention
+----------------------------------------
+Title: Butterflies are in decline across North America, a look at the Western Monarch
+Source: Hacker News
+URL: https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/
+----------------------------------------
+Title: Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race
+Source: Hacker News
+URL: https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo
+----------------------------------------
+Title: I bought Friendster for $30k – Here's what I'm doing with it
+Source: Hacker News
+URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
+----------------------------------------
+Title: MoQ Boy
+Source: Hacker News
+URL: https://moq.dev/blog/moq-boy/
+----------------------------------------
+Title: Fast16: High-precision software sabotage 5 years before Stuxnet
+Source: Hacker News
+URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
+----------------------------------------
+Title: A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible
+Source: NPR News
+URL: https://www.npr.org/2026/04/26/nx-s1-5800174/georgia-wildfire-evacuations
+----------------------------------------
+Title: A chaotic White House Correspondents' Dinner, as told by NPR reporters in the room
+Source: NPR News
+URL: https://www.npr.org/2026/04/26/nx-s1-5800105/white-house-correspondents-dinner-shooting-scene-trump
+----------------------------------------
+Title: What we know about Cole Allen, suspected White House Correspondents' dinner shooter
+Source: NPR News
+URL: https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile
+----------------------------------------
+Title: Photos: The aftermath of the White House Correspondents' Dinner shooting
+Source: NPR News
+URL: https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting
+----------------------------------------
+Title: Details emerge of alleged shooter at White House correspondents' dinner
+Source: NPR News
+URL: https://www.npr.org/2026/04/26/g-s1-118807/trump-white-house-correspondents-dinner
+----------------------------------------
+Title: Panama’s ocean lifeline vanishes for the first time in 40 years
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260426012253.htm
+----------------------------------------
+Title: Mezcal worm in a bottle DNA test reveals a surprise
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260426012250.htm
+----------------------------------------
+Title: How China is responding to the stalling of talks between the U.S. and Iran
+Source: NPR News
+URL: https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran
+----------------------------------------
+Title: Blood vessels found in T. rex bones are rewriting dinosaur science
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260426012259.htm
+----------------------------------------
+Title: World Press Photo Contest winners cast a lens on resilience, pain and bliss
+Source: NPR News
+URL: https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners
+----------------------------------------
+Title: DNA research just rewrote the origin of human species
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260426012255.htm
+----------------------------------------
