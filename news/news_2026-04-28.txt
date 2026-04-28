@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-28
+========================================
+
+Title: Scraping 241 UK council planning portals – 2.6M decisions so far
+Source: Hacker News
+URL: https://news.ycombinator.com/item?id=47931470
+----------------------------------------
+Title: Austrian goes on trial accused of plotting attack on Taylor Swift concert
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: BP profits more than double as Iran war sends oil prices higher
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Russian superyacht sails through Strait of Hormuz despite blockade
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'Some form' of social media restrictions for under-16s, minister promises
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: GTFOBins
+Source: Hacker News
+URL: https://gtfobins.org/
+----------------------------------------
+Title: Jimmy Kimmel rejects White House criticism over Melania widow joke
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: WASM is not quite a stack machine
+Source: Hacker News
+URL: https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/
+----------------------------------------
+Title: Kid Rock flies in Army helicopter weeks after flights near his house drew scrutiny
+Source: NPR News
+URL: https://www.npr.org/2026/04/28/g-s1-118998/kid-rock-flies-army-helicopter
+----------------------------------------
+Title: Violence escalates in Colombia with dozens of attacks before presidential vote
+Source: NPR News
+URL: https://www.npr.org/2026/04/28/nx-s1-5802273/violence-colombia-before-presidential-vote
+----------------------------------------
+Title: LingBot-Map: Streaming 3D reconstruction with geometric context transformer
+Source: Hacker News
+URL: https://technology.robbyant.com/lingbot-map
+----------------------------------------
+Title: Figures show rise in suicides after domestic abuse
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn898mrkjl5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: UK and US always find ways to 'come together', King to tell Congress
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption
+Source: NPR News
+URL: https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption
+----------------------------------------
+Title: High Performance Git
+Source: Hacker News
+URL: https://gitperf.com/
+----------------------------------------
+Title: US political violence generates a familiar cycle - this time it's in overdrive
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Fish oil may be hurting your brain, new study finds
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260426012303.htm
+----------------------------------------
+Title: My tenant owes £15,000 in rent, but I can't get them out of the property
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Integrated by Design
+Source: Hacker News
+URL: https://vivianvoss.net/blog/integrated-by-design-launch
+----------------------------------------
+Title: Talkie: a 13B vintage language model from 1930
+Source: Hacker News
+URL: https://talkie-lm.com/introducing-talkie
+----------------------------------------

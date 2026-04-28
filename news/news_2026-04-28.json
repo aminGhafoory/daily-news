@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Scraping 241 UK council planning portals – 2.6M decisions so far",
+    "link": "https://news.ycombinator.com/item?id=47931470",
+    "published": "Tue, 28 Apr 2026 07:34:03 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>I've been scraping 241 UK council planning portals – 2.6M decisions so far<p>UK planning data is technically public. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas. I've spent four months scraping them. I'm now at 241 councils and 2.6 million decisions across England, Scotland and Wales.<p>The scraping problem<p>Most UK councils run one of a handful of portal systems, Idox being the most common. In theory this makes things easy. In practice every council has configured theirs differently, some block non-browser requests via TLS fingerprinting, some have rate limits that will get you banned inside 10 minutes, and a handful are running the aforementioned bespoke ASP.NET.<p>I ended up writing several scrapers: a standard requests-based one, a Playwright-based one for councils that block anything that doesn't look like a real browser, and a curl_cffi one for TLS fingerprinting. Some councils I still can't get. Liverpool's portal sits behind AWS WAF with a JavaScript challenge. I have a working Playwright-based scraper that solves the challenge once and reuses cookies, but the WAF rate-limits the IP after about 10 requests and then blocks me for a day. So I have 60k Liverpool decisions from an old scrape and no easy way to add more.<p>What I found<p>The approval rate stuff is what most people come for. Nationally it's around 88%, but it varies wildly by ward within a council, not just between councils.<p>The more interesting finding came from the time-to-decision data. Across 119 English and Welsh councils, 36.5% of home extension applications missed the statutory 8-week target in 2025, up from 27.9% in 2019. Guildford is the worst at scale: 66% of decisions over target, averaging 13.3 weeks.<p>What it is now<p>A postcode checker (free) and paid PDF reports (£19/£79). Zero paying customers so far, which is fine. I've been heads down on data quality and coverage.<p>Site is planninglens.co.uk if you want to poke around. AMA on the scraping side – that's where the interesting problems are.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931470\">https://news.ycombinator.com/item?id=47931470</a></p>\n<p>Points: 21</p>\n<p># Comments: 18</p>",
+    "fetched_at": "2026-04-28T08:11:45.665547"
+  },
+  {
+    "title": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
+    "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 07:32:35 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Prosecutors say the man, 21-year-old Beran A, received training from members of jihadist group Islamic State on how to handle explosives.",
+    "fetched_at": "2026-04-28T08:11:44.589725"
+  },
+  {
+    "title": "BP profits more than double as Iran war sends oil prices higher",
+    "link": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 07:17:48 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "The energy giant said it had seen an \"exceptional\" performance at its oil trading business.",
+    "fetched_at": "2026-04-28T08:11:44.589683"
+  },
+  {
+    "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+    "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 07:17:06 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+    "fetched_at": "2026-04-28T08:11:44.589700"
+  },
+  {
+    "title": "'Some form' of social media restrictions for under-16s, minister promises",
+    "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 07:12:44 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Education Minister Olivia Bailey says the government will introduce “age or functionality restrictions”.",
+    "fetched_at": "2026-04-28T08:11:44.589731"
+  },
+  {
+    "title": "GTFOBins",
+    "link": "https://gtfobins.org/",
+    "published": "Tue, 28 Apr 2026 06:27:39 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://gtfobins.org/\">https://gtfobins.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931035\">https://news.ycombinator.com/item?id=47931035</a></p>\n<p>Points: 88</p>\n<p># Comments: 32</p>",
+    "fetched_at": "2026-04-28T08:11:45.665558"
+  },
+  {
+    "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+    "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 06:09:43 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+    "fetched_at": "2026-04-28T08:11:44.589695"
+  },
+  {
+    "title": "WASM is not quite a stack machine",
+    "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+    "published": "Tue, 28 Apr 2026 04:34:29 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/\">https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930493\">https://news.ycombinator.com/item?id=47930493</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+    "fetched_at": "2026-04-28T08:11:45.665563"
+  },
+  {
+    "title": "Kid Rock flies in Army helicopter weeks after flights near his house drew scrutiny",
+    "link": "https://www.npr.org/2026/04/28/g-s1-118998/kid-rock-flies-army-helicopter",
+    "published": "Tue, 28 Apr 2026 03:56:59 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Kid Rock and Defense Secretary Pete Hegseth both flew in Army Apache helicopters at a base in Virginia on Monday, weeks after military pilots drew scrutiny for hovering near the entertainer's home.",
+    "fetched_at": "2026-04-28T08:11:44.964222"
+  },
+  {
+    "title": "Violence escalates in Colombia with dozens of attacks before presidential vote",
+    "link": "https://www.npr.org/2026/04/28/nx-s1-5802273/violence-colombia-before-presidential-vote",
+    "published": "Tue, 28 Apr 2026 03:38:58 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "A spate of attacks against civilians and military bases in Colombia's southwestern region has raised security concerns as the country heads to a May presidential election.",
+    "fetched_at": "2026-04-28T08:11:44.964233"
+  },
+  {
+    "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+    "link": "https://technology.robbyant.com/lingbot-map",
+    "published": "Tue, 28 Apr 2026 03:27:40 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://technology.robbyant.com/lingbot-map\">https://technology.robbyant.com/lingbot-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930170\">https://news.ycombinator.com/item?id=47930170</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+    "fetched_at": "2026-04-28T08:11:45.665568"
+  },
+  {
+    "title": "Figures show rise in suicides after domestic abuse",
+    "link": "https://www.bbc.com/news/articles/cn898mrkjl5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 02:33:39 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Police say the increase is driven by improved awareness and a change in recording incidents.",
+    "fetched_at": "2026-04-28T08:11:44.589719"
+  },
+  {
+    "title": "UK and US always find ways to 'come together', King to tell Congress",
+    "link": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 01:44:46 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "King Charles will address the US Congress on Tuesday and it is expected to express sympathy over Saturday's gun attack.",
+    "fetched_at": "2026-04-28T08:11:44.589671"
+  },
+  {
+    "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption",
+    "link": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
+    "published": "Tue, 28 Apr 2026 01:20:05 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Archaeologists have used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius, offering a new way to understand one of history's most famous natural disasters.",
+    "fetched_at": "2026-04-28T08:11:44.964239"
+  },
+  {
+    "title": "High Performance Git",
+    "link": "https://gitperf.com/",
+    "published": "Tue, 28 Apr 2026 00:32:04 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://gitperf.com/\">https://gitperf.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47929035\">https://news.ycombinator.com/item?id=47929035</a></p>\n<p>Points: 110</p>\n<p># Comments: 15</p>",
+    "fetched_at": "2026-04-28T08:11:45.665573"
+  },
+  {
+    "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+    "link": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 00:19:49 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+    "fetched_at": "2026-04-28T08:11:44.589690"
+  },
+  {
+    "title": "Fish oil may be hurting your brain, new study finds",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+    "published": "Sun, 26 Apr 2026 01:57:51 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
+    "fetched_at": "2026-04-28T08:11:45.244427"
+  },
+  {
+    "title": "My tenant owes £15,000 in rent, but I can't get them out of the property",
+    "link": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Apr 2026 23:56:45 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Landlords tell BBC News why they fear new laws could make it harder to remove problematic tenants.",
+    "fetched_at": "2026-04-28T08:11:44.589706"
+  },
+  {
+    "title": "Integrated by Design",
+    "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "published": "Mon, 27 Apr 2026 23:14:26 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://vivianvoss.net/blog/integrated-by-design-launch\">https://vivianvoss.net/blog/integrated-by-design-launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47928554\">https://news.ycombinator.com/item?id=47928554</a></p>\n<p>Points: 92</p>\n<p># Comments: 40</p>",
+    "fetched_at": "2026-04-28T08:11:45.665578"
+  },
+  {
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "link": "https://talkie-lm.com/introducing-talkie",
+    "published": "Mon, 27 Apr 2026 21:55:48 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://talkie-lm.com/introducing-talkie\">https://talkie-lm.com/introducing-talkie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47927903\">https://news.ycombinator.com/item?id=47927903</a></p>\n<p>Points: 313</p>\n<p># Comments: 107</p>",
+    "fetched_at": "2026-04-28T08:11:45.665583"
+  },
+  {
+    "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+    "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "published": "Mon, 27 Apr 2026 20:44:16 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/\">https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47927070\">https://news.ycombinator.com/item?id=47927070</a></p>\n<p>Points: 152</p>\n<p># Comments: 71</p>",
+    "fetched_at": "2026-04-28T08:11:45.665588"
+  },
+  {
+    "title": "Is my blue your blue?",
+    "link": "https://ismy.blue/",
+    "published": "Mon, 27 Apr 2026 20:24:33 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 493</p>\n<p># Comments: 339</p>",
+    "fetched_at": "2026-04-28T08:11:45.665593"
+  },
+  {
+    "title": "South Carolina's measles outbreak is over. But more are brewing around the country",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination",
+    "published": "Mon, 27 Apr 2026 19:17:50 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "The virus infected nearly 1,000 people in the state before the state declared it over. Meanwhile, cases are spreading across many parts of the U.S., with more than 20 outbreaks currently active.",
+    "fetched_at": "2026-04-28T08:11:44.964244"
+  },
+  {
+    "title": "Easyduino: Open Source PCB Devboards for KiCad",
+    "link": "https://github.com/Hanqaqa/Easyduino",
+    "published": "Mon, 27 Apr 2026 17:45:02 +0000",
+    "source": "Hacker News",
+    "category": "technology",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Hanqaqa/Easyduino\">https://github.com/Hanqaqa/Easyduino</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924813\">https://news.ycombinator.com/item?id=47924813</a></p>\n<p>Points: 204</p>\n<p># Comments: 31</p>",
+    "fetched_at": "2026-04-28T08:11:45.665598"
+  },
+  {
+    "title": "Supreme Court heard case on how to label risks of popular weed killer",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments",
+    "published": "Mon, 27 Apr 2026 16:48:12 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "How the Supreme Court rules could have implications for tens of thousands of lawsuits against Roundup maker Monsanto, which is now owned by Bayer.",
+    "fetched_at": "2026-04-28T08:11:44.964249"
+  },
+  {
+    "title": "Privacy and law enforcement clash as the Supreme Court wrestles with 'geofence' warrants",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5800863/supreme-court-weighs-geofence-warrants",
+    "published": "Mon, 27 Apr 2026 16:43:27 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "In oral arguments at the Supreme Court Monday, most of the justices aimed pointed questions at both sides, with the usual conservative-liberal alignments scrambled like an egg.",
+    "fetched_at": "2026-04-28T08:11:44.964254"
+  },
+  {
+    "title": "When Attenborough met the gorillas - the story behind his iconic TV moment",
+    "link": "https://www.bbc.com/news/articles/ce9n794g42zo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Apr 2026 16:05:56 GMT",
+    "source": "BBC News",
+    "category": "world",
+    "summary": "Two new documentaries explore the the fascinating tale behind the defining image of Attenborough's career.",
+    "fetched_at": "2026-04-28T08:11:44.589711"
+  },
+  {
+    "title": "Here's a look inside security at the White House Correspondents' Association Dinner",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump",
+    "published": "Mon, 27 Apr 2026 15:15:25 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Saturday's shooting at the White House Correspondents' Association Dinner raised questions about how close the alleged gunman got to the president and what the Secret Service security looked like.",
+    "fetched_at": "2026-04-28T08:11:44.964259"
+  },
+  {
+    "title": "Melania Trump wants ABC to 'take a stand' against Jimmy Kimmel after 'hateful' joke",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5801448/melania-trump-jimmy-kimmel",
+    "published": "Mon, 27 Apr 2026 14:26:22 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Two days before the White House Correspondents' Dinner ended in gunfire, Kimmel delivered a mock Correspondents' Dinner speech during a sketch on his show. The first lady said it was \"corrosive.\"",
+    "fetched_at": "2026-04-28T08:11:44.964263"
+  },
+  {
+    "title": "Florida's DeSantis unveils a voting map that could add to Trump's GOP redistricting",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5797938/floridas-desantis-unveils-a-voting-map-that-could-add-to-trumps-gop-redistricting",
+    "published": "Mon, 27 Apr 2026 12:10:40 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Florida's governor has called lawmakers to meet starting Tuesday. They'll consider a fast-track redistricting that could flip some House seats held by Democrats to Republicans.",
+    "fetched_at": "2026-04-28T08:11:44.964268"
+  },
+  {
+    "title": "Scientists finally solve mystery of strange “golden orb” found 2 miles deep",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260427050613.htm",
+    "published": "Mon, 27 Apr 2026 11:05:43 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A mysterious “golden orb” found more than two miles deep in the Gulf of Alaska left scientists baffled for over two years, sparking wild speculation about its origins. After an intensive investigation combining deep-sea expertise, microscopic analysis, and advanced DNA sequencing, researchers finally cracked the case. The strange object turned out not to be an egg, sponge, or anything alien, but the remains of tissue from a giant deep-sea anemone.",
+    "fetched_at": "2026-04-28T08:11:45.244393"
+  },
+  {
+    "title": "This tiny mammal survived the dinosaur apocalypse and changed life on Earth",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260427050554.htm",
+    "published": "Mon, 27 Apr 2026 10:58:35 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A newly discovered prehistoric mammal may hold clues to how life survived the dinosaur-killing extinction. The tiny species, Cimolodon desosai, lived 75 million years ago and had traits—like a small body and varied diet—that likely boosted survival odds. Found in Baja California, the fossil includes rare skeletal remains that reveal how it moved and lived. Researchers believe its lineage helped mammals endure one of Earth’s deadliest events.",
+    "fetched_at": "2026-04-28T08:11:45.244398"
+  },
+  {
+    "title": "This hidden kind of stress may be damaging your memory as you age",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
+    "published": "Mon, 27 Apr 2026 10:55:07 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A new study reveals that internalizing stress—especially feelings of hopelessness—may significantly speed up memory decline in older Chinese Americans. Surprisingly, factors like community support didn’t show the same impact. Researchers say cultural pressures and stereotypes may cause emotional struggles to go unnoticed and untreated. The findings suggest that targeted, culturally sensitive stress relief could play a powerful role in preserving cognitive health.",
+    "fetched_at": "2026-04-28T08:11:45.244377"
+  },
+  {
+    "title": "Students build a “cosmic radio” to listen for dark matter",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260427050618.htm",
+    "published": "Mon, 27 Apr 2026 09:40:33 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A group of undergraduate students pulled off something remarkable: they built their own dark matter detector and used it to probe one of physics’ biggest mysteries. Working with limited resources but plenty of creativity, they designed a stripped-down experiment to hunt for axions — hypothetical particles that could make up dark matter.",
+    "fetched_at": "2026-04-28T08:11:45.244387"
+  },
+  {
+    "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
+    "published": "Mon, 27 Apr 2026 09:16:00 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superconductors. Instead of behaving independently, the pairs moved in a synchronized, dance-like pattern—something never predicted before. This suggests a major gap in the classic theory of superconductivity.",
+    "fetched_at": "2026-04-28T08:11:45.244403"
+  },
+  {
+    "title": "China blocks Meta from acquiring AI startup Manus",
+    "link": "https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus",
+    "published": "Mon, 27 Apr 2026 08:47:46 -0400",
+    "source": "NPR News",
+    "category": "world",
+    "summary": "Meta said Monday that the transaction \"complied fully with applicable law\" and that it anticipates \"an appropriate resolution to the inquiry.\"",
+    "fetched_at": "2026-04-28T08:11:44.964273"
+  },
+  {
+    "title": "Scientists may have found the brain’s switch for chronic pain",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
+    "published": "Mon, 27 Apr 2026 08:37:49 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
+    "fetched_at": "2026-04-28T08:11:45.244408"
+  },
+  {
+    "title": "Pesticide exposure linked to 150% higher cancer risk in major study",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260426012314.htm",
+    "published": "Mon, 27 Apr 2026 06:25:54 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A major new study finds that living in pesticide-heavy environments could raise cancer risk by up to 150%, even when the chemicals are considered “safe” on their own. The research suggests these mixtures may silently damage cells years before cancer appears.",
+    "fetched_at": "2026-04-28T08:11:45.244413"
+  },
+  {
+    "title": "The shocking origin of human eyes traces back to an ancient “cyclops”",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260426012308.htm",
+    "published": "Mon, 27 Apr 2026 04:31:43 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "A bizarre, cyclops-like creature from nearly 600 million years ago may hold the key to how your eyes—and even your sleep cycle—evolved. Scientists have discovered that all vertebrates, including humans, trace their vision back to a single light-sensitive “median eye” perched atop a worm-like ancestor’s head. As this ancient animal shifted from a sedentary to a more active lifestyle, it lost and then reinvented its vision, eventually giving rise to the paired, image-forming eyes we rely on today.",
+    "fetched_at": "2026-04-28T08:11:45.244418"
+  },
+  {
+    "title": "This one change to your exercise routine could add years to your life",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+    "published": "Mon, 27 Apr 2026 01:32:16 EDT",
+    "source": "Science Daily",
+    "category": "science",
+    "summary": "Mixing up your workouts might be the real secret to a longer life. Long-term research tracking over 100,000 people for more than three decades suggests that doing a variety of physical activities—rather than just more of the same—can significantly lower the risk of death. Interestingly, the benefits don’t keep rising endlessly; they seem to level off after a certain point, hinting at a “sweet spot” of activity.",
+    "fetched_at": "2026-04-28T08:11:45.244422"
+  }
+]
