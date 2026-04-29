@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-29
+========================================
+
+Title: Advert for £49 serum banned over 'five years younger' claim
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Wire to Replace Signal as Standard in the Bundestag
+Source: Hacker News
+URL: https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html
+----------------------------------------
+Title: Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation
+Source: Hacker News
+URL: https://dl.acm.org/doi/abs/10.1145/3767295.3803591
+----------------------------------------
+Title: Germany Overtakes US in Ammunition Production Capacity
+Source: Hacker News
+URL: https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409
+----------------------------------------
+Title: HardenedBSD Is Now Officially on Radicle
+Source: Hacker News
+URL: https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle
+----------------------------------------
+Title: Five takeaways from the King's historic address to Congress
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Al Fayed survivor was modern slavery victim, says Home Office
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4g0qer941jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Bugs Rust won't catch
+Source: Hacker News
+URL: https://corrode.dev/blog/bugs-rust-wont-catch/
+----------------------------------------
+Title: Red cards can be given to players who cover their mouths while confronting opponents
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/g-s1-119149/red-cards-cover-mouths
+----------------------------------------
+Title: Weeks of silence over Iran school strike highly unusual, former US officials say
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: U.S. to issue commemorative passports with Trump's picture for America's 250th birthday
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/g-s1-119146/us-to-issue-passports-with-trumps-picture-for-americas-250th-birthday
+----------------------------------------
+Title: When the Internet Was a Place
+Source: Hacker News
+URL: https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/
+----------------------------------------
+Title: Australia moves to tax Meta, Google and TikTok to fund newsrooms
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/g-s1-119142/australia-moves-to-tax-meta-google-and-tiktok-to-fund-newsrooms
+----------------------------------------
+Title: Former FBI director charged with threatening Trump's life in Instagram post
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Regression: malware reminder on every read still causes subagent refusals
+Source: Hacker News
+URL: https://github.com/anthropics/claude-code/issues/49363
+----------------------------------------
+Title: How ChatGPT serves ads
+Source: Hacker News
+URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/
+----------------------------------------
+Title: Early care scheme could prevent thousands of miscarriages a year
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Apple CMF (Color-Matching Functions) 2026
+Source: Hacker News
+URL: https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results
+----------------------------------------
+Title: Eleven cancers on the rise in young people - scientists find first clue why it's happening
+Source: BBC News
+URL: https://www.bbc.com/news/articles/crepdjdj0z4o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: A fresh financial crisis may be coming - it won't play out like the last one
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss
+----------------------------------------
