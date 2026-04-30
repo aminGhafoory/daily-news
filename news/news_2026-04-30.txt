@@ -1,0 +1,83 @@
+Daily News Digest - 2026-04-30
+========================================
+
+Title: Earth is splitting open beneath the Pacific Northwest, scientists say
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429232851.htm
+----------------------------------------
+Title: Interest rates expected to be held as uncertainty over Iran war continues
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Watch: Met Police body-worn footage of Golders Green arrest
+Source: BBC News
+URL: https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Hereditary peers' last hurrah as 700-year-old system abolished
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Supreme Court appears to lean toward ending TPS for some migrants
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/nx-s1-5804707/supreme-court-tps
+----------------------------------------
+Title: The Austrian nuns who fled their care home are now in Rome and visited the Vatican
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome
+----------------------------------------
+Title: House extends a controversial spy tool, but Senate path is unclear ahead of deadline
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/g-s1-119094/congress-fisa-702
+----------------------------------------
+Title: Long a dream, it's now real: a fast and accurate TB test that doesn't need phlegm
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/nx-s1-5802789/tb-tuberculosis-rapid-test
+----------------------------------------
+Title: DOD officials say Iran war has cost $25 billion so far during Congressional grilling
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/nx-s1-5804516/dod-officials-say-iran-war-has-cost-25-billion-so-far-during-congressional-grilling
+----------------------------------------
+Title: The Iran war now has a price tag ($25 billion), but still no end date
+Source: NPR News
+URL: https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date
+----------------------------------------
+Title: Bronze Age mines discovered in Spain may explain Scandinavian metal mystery
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260428045608.htm
+----------------------------------------
+Title: 50-foot ancient snake discovered in India may be one of the largest ever
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429043500.htm
+----------------------------------------
+Title: A one-in-a-million supernova seen five times could reveal the Universe’s true speed
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260428045603.htm
+----------------------------------------
+Title: Scientists catch antimatter “atom” acting like a wave for the first time
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260428045612.htm
+----------------------------------------
+Title: Oil price jumps after report Trump to be briefed on new Iran options
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scott Aaronson on quantum: "Will you heed my warnings NOW?"
+Source: Hacker News
+URL: https://scottaaronson.blog/?p=9718
+----------------------------------------
+Title: Video that police denied existed shows woman pinned down
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'We will kill you and burn your house': Council staff under attack from High Street gangs
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Monad Tutorials Timeline
+Source: Hacker News
+URL: https://wiki.haskell.org/Monad_tutorials_timeline
+----------------------------------------
+Title: Lessons from Building an OTel Normalizer for GenAI
+Source: Hacker News
+URL: https://www.groundcover.com/blog/otel-normalizer-genai-part-1
+----------------------------------------
