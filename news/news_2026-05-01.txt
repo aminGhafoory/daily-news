@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-01
+========================================
+
+Title: Earth is splitting open beneath the Pacific Northwest, scientists say
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429232851.htm
+----------------------------------------
+Title: UK should not keep changing prime ministers, warns John Major
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cgepy0xw1nzo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: CPanel and WHM Authentication Bypass – CVE-2026-41940
+Source: Hacker News
+URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/
+----------------------------------------
+Title: Snowball Earth may hide a far stranger climate cycle than anyone expected
+Source: Hacker News
+URL: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html
+----------------------------------------
+Title: Britney Spears charged with driving under influence in California
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Surprising obesity discovery rewrites decades of fat metabolism science
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260430213503.htm
+----------------------------------------
+Title: Can I disable all data collection from my vehicle?
+Source: Hacker News
+URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle
+----------------------------------------
+Title: Trump gives the go-ahead for a major new Canada-U.S. oil pipeline
+Source: NPR News
+URL: https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion
+----------------------------------------
+Title: Does Postgres Scale?
+Source: Hacker News
+URL: https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres
+----------------------------------------
+Title: Full-Text Search with DuckDB
+Source: Hacker News
+URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html
+----------------------------------------
+Title: Will.i.am wants to future-proof a new generation
+Source: NPR News
+URL: https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent
+----------------------------------------
+Title: Trump pulls Casey Means' stalled surgeon general nomination, announces new pick
+Source: NPR News
+URL: https://www.npr.org/2026/04/30/g-s1-119571/nicole-saphier-trump-casey-means-surgeon-general-nomination
+----------------------------------------
+Title: U.S. House primaries in Louisiana are suspended after Voting Rights Act ruling
+Source: NPR News
+URL: https://www.npr.org/2026/04/30/nx-s1-5806000/louisiana-suspends-house-primaries-supreme-court
+----------------------------------------
+Title: In real-world test, an AI model did better than ER doctors at diagnosing patients
+Source: NPR News
+URL: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis
+----------------------------------------
+Title: Scientists finally explain how the Twelve Apostles rose from the ocean
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429102028.htm
+----------------------------------------
+Title: Scientists restore memory by blocking a single Alzheimer’s protein
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429102037.htm
+----------------------------------------
+Title: Scientists reveal the best exercise for knee arthritis pain relief
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260430032411.htm
+----------------------------------------
+Title: This AI knew the answers but didn’t understand the questions
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429102035.htm
+----------------------------------------
+Title: A photon was teleported across 270 meters in stunning quantum breakthrough
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429102030.htm
+----------------------------------------
+Title: Billions of meals at risk due to Iran war, says fertiliser boss
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
