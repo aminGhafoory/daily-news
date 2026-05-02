@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-02
+========================================
+
+Title: Earth is splitting open beneath the Pacific Northwest, scientists say
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429232851.htm
+----------------------------------------
+Title: Surprising obesity discovery rewrites decades of fat metabolism science
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260430213503.htm
+----------------------------------------
+Title: Scientists restore memory by blocking a single Alzheimer’s protein
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260429102037.htm
+----------------------------------------
+Title: Scientists reveal the best exercise for knee arthritis pain relief
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/04/260430032411.htm
+----------------------------------------
+Title: Peter Kay show evacuated mid-performance over 'suspicious bag'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Spirit Airlines Is Winding Down All Operations
+Source: Hacker News
+URL: https://www.spiritrestructuring.com/
+----------------------------------------
+Title: These twins were born within minutes of each other - but have different dads
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Show HN: Stop playing my matchstick puzzles, start building your own in seconds
+Source: Hacker News
+URL: https://mathstick.github.io
+----------------------------------------
+Title: 'If we sleep they bite': Rats and weasels infest camps for displaced Gazans
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Some protests may need to be stopped, PM suggests, after calls for pause on pro-Palestinian marches
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: CollectWise (YC F24) Is Hiring
+Source: Hacker News
+URL: https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer
+----------------------------------------
+Title: Why does it take so long to release black fan versions?
+Source: Hacker News
+URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions
+----------------------------------------
+Title: Ask.com has closed
+Source: Hacker News
+URL: https://www.ask.com/
+----------------------------------------
+Title: K3k: Kubernetes in Kubernetes
+Source: Hacker News
+URL: https://github.com/rancher/k3k
+----------------------------------------
+Title: Trump claims other presidents flouted war powers law. It's a mixed record
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Spirit Airlines ceases operations after escalating financial struggles
+Source: NPR News
+URL: https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds
+----------------------------------------
+Title: Create an MP4 video of a web page scrolling at a steady speed
+Source: Hacker News
+URL: https://github.com/upenn/web-scroll-video
+----------------------------------------
+Title: I built the Playwright for desktop apps. 80% token savings
+Source: Hacker News
+URL: https://github.com/lahfir/agent-desktop
+----------------------------------------
+Title: Air Force says former Qatari 747 will be ready to fly as Air Force One this summer
+Source: NPR News
+URL: https://www.npr.org/2026/05/02/g-s1-119866/trump-new-air-force-one
+----------------------------------------
