@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-03
+========================================
+
+Title: Airlines can cancel flights in advance over fuel shortages under new plans
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML
+Source: Hacker News
+URL: https://acai.sh/blog/specsmaxxing
+----------------------------------------
+Title: Man charged with murder and sexual assault of 5-year-old Australian girl
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge
+Source: Hacker News
+URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/
+----------------------------------------
+Title: Windows API is Successful Cross-Platform API (2024)
+Source: Hacker News
+URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api
+----------------------------------------
+Title: Open source does not imply open community
+Source: Hacker News
+URL: https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/
+----------------------------------------
+Title: Musk's AI told me people were coming to kill me. I grabbed a hammer and prepared for war
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c242pzr1zp2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Care homes and hotels in Japan shut as expansion strategy unravels
+Source: Hacker News
+URL: https://www.newsonjapan.com/article/149075.php
+----------------------------------------
+Title: Miami race brought forward because of storm threat
+Source: BBC News
+URL: https://www.bbc.com/sport/formula1/articles/c1j20lppnl3o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Maryland to ban A.I.-driven price increases in grocery stores
+Source: Hacker News
+URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html
+----------------------------------------
+Title: A network smuggling Starlink tech into Iran to beat internet blackout
+Source: Hacker News
+URL: https://www.bbc.com/news/articles/cvgzk91leweo
+----------------------------------------
+Title: King's speech was a 'high stakes' moment of US visit, Palace says
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy72d4g5pdyo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: A Couple Million Lines of Haskell: Production Engineering at Mercury
+Source: Hacker News
+URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/
+----------------------------------------
+Title: The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The clandestine network smuggling Starlink tech into Iran to beat internet blackout
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Laufey on making jazz cool again (and the fish that brought out her inner rage)
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: From beds to LED masks, is the red light craze giving us more than just a warm glow?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c2lw59jrdkxo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Clojurists Together – Q2 2026 Open Source Funding Announcement
+Source: Hacker News
+URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/
+----------------------------------------
+Title: Show HN: State of the Art of Coding Models, According to Hacker News Commenters
+Source: Hacker News
+URL: https://hnup.date/hn-sota
+----------------------------------------
