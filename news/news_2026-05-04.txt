@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-04
+========================================
+
+Title: The text mode lie: why modern TUIs are a nightmare for accessibility
+Source: Hacker News
+URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility
+----------------------------------------
+Title: Trump says the U.S will 'guide' stranded ships from the Strait of Hormuz
+Source: NPR News
+URL: https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz
+----------------------------------------
+Title: Let's Buy Spirit Air
+Source: Hacker News
+URL: https://letsbuyspiritair.com/
+----------------------------------------
+Title: Met Gala 2026: How to watch, the price of tickets and this year's theme
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cdrm7gp5er3o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Some Iranians fear the regime is now more entrenched - and ready for revenge
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The 'Hidden' Costs of Great Abstractions
+Source: Hacker News
+URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
+----------------------------------------
+Title: Thousands could benefit from cancer jab that cuts treatment time to minutes
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The threat to summer holidays looming from jet fuel shortages
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: DeepClaude – Claude Code agent loop with DeepSeek V4 Pro
+Source: Hacker News
+URL: https://github.com/aattaran/deepclaude
+----------------------------------------
+Title: Introduction to Atom
+Source: Hacker News
+URL: https://validator.w3.org/feed/docs/atom.html
+----------------------------------------
+Title: UK to enter talks to join £78bn EU loan scheme for Ukraine
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'I was trying to save a life,' man who intervened in Golders Green attack tells BBC
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1529vgdvlgo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says
+Source: NPR News
+URL: https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean
+----------------------------------------
+Title: New statue in London, attributed to Banksy, of a suited man, blinded by a flag
+Source: Hacker News
+URL: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
+----------------------------------------
+Title: Why TUIs are back
+Source: Hacker News
+URL: https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/
+----------------------------------------
+Title: Gas prices went up more than 30 cents a gallon last week. How high could they go?
+Source: NPR News
+URL: https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war
+----------------------------------------
+Title: Show HN: Ableton Live MCP
+Source: Hacker News
+URL: https://github.com/bschoepke/ableton-live-mcp
+----------------------------------------
+Title: Pellet found in Secret Service agent's vest links suspect to WHCD attack, Pirro says
+Source: NPR News
+URL: https://www.npr.org/2026/05/03/nx-s1-5809482/correspondents-dinner-shooter-bullet-vest-secret-service
+----------------------------------------
+Title: Scientists just discovered what coffee is really doing to your gut and brain
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260502233911.htm
+----------------------------------------
+Title: Malaria didn’t just kill early humans, it shaped who we became
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260502233859.htm
+----------------------------------------
