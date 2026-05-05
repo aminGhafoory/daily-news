@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-05
+========================================
+
+Title: Starmer to say antisemitism 'a crisis for all of us' at Downing Street summit
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Async Rust never left the MVP state
+Source: Hacker News
+URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state
+----------------------------------------
+Title: Poverty and technology leading to record levels of slavery in UK
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1j2gd8yr6go?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Lessons for Agentic Coding: What should we do when code is cheap?
+Source: Hacker News
+URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html
+----------------------------------------
+Title: Explosion at China fireworks factory kills 26 people
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Dangerous baby-sleep advice given to parents by self-described experts, secret filming reveals
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce84e1vn1l2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Kids bypass age verification with fake moustaches
+Source: Hacker News
+URL: https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/
+----------------------------------------
+Title: About 10% of AMC movie showings sell zero tickets. This site finds them
+Source: Hacker News
+URL: https://walzr.com/empty-screenings
+----------------------------------------
+Title: 2-D Mathematical Curves
+Source: Hacker News
+URL: https://www.2dcurves.com/
+----------------------------------------
+Title: Two killed and many injured after car driven into crowd in German city of Leipzig
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Train Your Own LLM from Scratch
+Source: Hacker News
+URL: https://github.com/angelos-p/llm-from-scratch
+----------------------------------------
+Title: Beyoncé, Rihanna and Katy Perry turn heads at this year's Met Gala
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Hand Drawn QR Codes
+Source: Hacker News
+URL: https://sethmlarson.dev/hand-drawn-qr-codes
+----------------------------------------
+Title: CVE-2026-31431: Copy Fail vs. rootless containers
+Source: Hacker News
+URL: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/
+----------------------------------------
+Title: Biscuit
+Source: Hacker News
+URL: https://github.com/yattsu/biscuit
+----------------------------------------
+Title: An explosion at a fireworks plant in China kills at least 26 people, state media says
+Source: NPR News
+URL: https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china
+----------------------------------------
+Title: What I'm Hearing About Cognitive Debt (So Far)
+Source: Hacker News
+URL: https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/
+----------------------------------------
+Title: Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak
+Source: NPR News
+URL: https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak
+----------------------------------------
+Title: Russia declares a truce in Ukraine to mark Victory Day
+Source: NPR News
+URL: https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day
+----------------------------------------
+Title: Second hantavirus case confirmed after three die in suspected cruise ship outbreak
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss
+----------------------------------------
