@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-06
+========================================
+
+Title: Mark Cuban: OpenAI Will Never Return the $1T It's Investing [video]
+Source: Hacker News
+URL: https://www.youtube.com/watch?v=oEVHNvE_jDw
+----------------------------------------
+Title: Cruise ship with hantavirus outbreak to sail to Canary Islands
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'I thought he was going to hit me,' OpenAI co-founder says of Musk
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: .de domains were 'down' for 2 hours
+Source: Hacker News
+URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38
+----------------------------------------
+Title: Catherine to return to overseas visits with Italy trip
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c707k90lplno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Watch: Tracing huge wave of Israeli strikes that devastated Lebanon
+Source: BBC News
+URL: https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Reverse-engineering the 1998 Ultima Online demo server
+Source: Hacker News
+URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html
+----------------------------------------
+Title: Behavior-Oriented Concurrency for Python
+Source: Hacker News
+URL: https://microsoft.github.io/bocpy/
+----------------------------------------
+Title: Knitting Bullshit
+Source: Hacker News
+URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/
+----------------------------------------
+Title: 245TB Micron 6600 ION Data Center SSD Now Shipping
+Source: Hacker News
+URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now
+----------------------------------------
+Title: Ombudsman column: The Pentagon is trying to silence me
+Source: Hacker News
+URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html
+----------------------------------------
+Title: Agents can now create Cloudflare accounts, buy domains, and deploy
+Source: Hacker News
+URL: https://blog.cloudflare.com/agents-stripe-projects/
+----------------------------------------
+Title: 240-million-year-old giant “sand creeper” found hidden in retaining wall
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260504154028.htm
+----------------------------------------
+Title: Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire
+Source: NPR News
+URL: https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine
+----------------------------------------
+Title: Colon cancer breakthrough keeps patients cancer-free for nearly 3 years
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260505234618.htm
+----------------------------------------
+Title: Police say Australian women with alleged IS ties face charges on return from Syria
+Source: NPR News
+URL: https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria
+----------------------------------------
+Title: StarFighter 16-Inch
+Source: Hacker News
+URL: https://us.starlabs.systems/pages/starfighter
+----------------------------------------
+Title: Common knee surgery found ineffective, may make things worse
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260505234603.htm
+----------------------------------------
+Title: Telus Uses AI to Alter Call-Agent Accents
+Source: Hacker News
+URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63
+----------------------------------------
+Title: Campaigning sprint finish ahead of elections around Britain tomorrow
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&at_campaign=rss
+----------------------------------------
