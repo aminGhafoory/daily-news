@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-09
+========================================
+
+Title: Doctors warn this popular vitamin may quietly disrupt cancer care
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260506225551.htm
+----------------------------------------
+Title: New “Trojan horse” obesity drug supercharges weight loss in early tests
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260506225428.htm
+----------------------------------------
+Title: Scientists accidentally discover DNA that breaks the rules of life
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260507024045.htm
+----------------------------------------
+Title: Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying
+Source: Hacker News
+URL: https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying
+----------------------------------------
+Title: EU calls VPNs "a loophole that needs closing" in age verification push
+Source: Hacker News
+URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/
+----------------------------------------
+Title: Using Claude Code: The unreasonable effectiveness of HTML
+Source: Hacker News
+URL: https://twitter.com/trq212/status/2052809885763747935
+----------------------------------------
+Title: Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux
+Source: Hacker News
+URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml
+----------------------------------------
+Title: A recent experience with ChatGPT 5.5 Pro
+Source: Hacker News
+URL: https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
+----------------------------------------
+Title: Scientists found the “holy grail” gene that could one day help humans regrow limbs
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260508003121.htm
+----------------------------------------
+Title: ABC argues Trump administration is trying to chill free speech
+Source: NPR News
+URL: https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech
+----------------------------------------
+Title: Anger and resignation in Tenerife as hantavirus ship approaches
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire
+Source: NPR News
+URL: https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire
+----------------------------------------
+Title: Sir John Curtice: Election results show politics in the UK has fragmented
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce8p4yn448vo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Reform election gains show shift in British politics, says Farage
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: No leadership pressure on Badenoch despite Tory losses
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cnvp5rqrde3o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Meta Shuts Down End-to-End Encryption for Instagram Messaging
+Source: Hacker News
+URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging
+----------------------------------------
+Title: Mux (YC W16) Is Hiring
+Source: Hacker News
+URL: https://www.mux.com/jobs
+----------------------------------------
+Title: Analysis: Many Labour MPs are blaming the boss for elections body blow
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: When is your birthday? The math behind hash collisions
+Source: Hacker News
+URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html
+----------------------------------------
+Title: You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)
+Source: Hacker News
+URL: https://ze3tar.github.io/post-zcrx.html
+----------------------------------------
