@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-10
+========================================
+
+Title: Two men admit filming antisemitic abuse on TikTok
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5yegzd6zz3o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Virus-hit cruise ship arrives in Tenerife as medics await passengers
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Debian must ship reproducible packages
+Source: Hacker News
+URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html
+----------------------------------------
+Title: Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.
+Source: Hacker News
+URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/
+----------------------------------------
+Title: Gemini API File Search is now multimodal
+Source: Hacker News
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+----------------------------------------
+Title: Scientists discover the brain’s hidden “stop scratching” switch
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210654.htm
+----------------------------------------
+Title: Show HN: Building a web server in assembly to give my life (a lack of) meaning
+Source: Hacker News
+URL: https://github.com/imtomt/ymawky
+----------------------------------------
+Title: Sparse Cholesky Elimination Tree
+Source: Hacker News
+URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html
+----------------------------------------
+Title: Scientists stunned as volcano cloud destroys methane in the atmosphere
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210640.htm
+----------------------------------------
+Title: Scientists say a critical Atlantic ocean current is weakening and the world could feel the impact
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210639.htm
+----------------------------------------
+Title: Antarctica is melting from below and scientists say it’s worse than expected
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210637.htm
+----------------------------------------
+Title: Is Starmer's leadership under serious threat?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How the winner-takes-all voting system has turned on Labour and the Tories
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cdxpqyndqwlo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Antisemitism 'a problem for all of us to fix', religious leaders say in letter
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy92v3j999yo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scientists reversed liver aging with young gut bacteria in stunning study
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210643.htm
+----------------------------------------
+Title: Show HN: Rust but Lisp
+Source: Hacker News
+URL: https://github.com/ThatXliner/rust-but-lisp
+----------------------------------------
+Title: Protests and boycotts rock prestigious Venice Biennale
+Source: NPR News
+URL: https://www.npr.org/2026/05/09/nx-s1-5817005/protests-and-boycotts-rock-prestigious-venice-biennale
+----------------------------------------
+Title: Local privilege escalation via execve()
+Source: Hacker News
+URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc
+----------------------------------------
+Title: Surfel-based global illumination on the web
+Source: Hacker News
+URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/
+----------------------------------------
+Title: Meta's embrace of AI is making its employees miserable
+Source: Hacker News
+URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html
+----------------------------------------
