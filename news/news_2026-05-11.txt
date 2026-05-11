@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-11
+========================================
+
+Title: An AI coding agent, used to write code, needs to reduce your maintenance costs
+Source: Hacker News
+URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
+----------------------------------------
+Title: Why Eurovision's fallout over Israel may change the competition forever
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Running local models on an M4 with 24GB memory
+Source: Hacker News
+URL: https://jola.dev/posts/running-local-models-on-m4
+----------------------------------------
+Title: How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?
+Source: Hacker News
+URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/
+----------------------------------------
+Title: Obsidian plugin was abused to deploy a remote access trojan
+Source: Hacker News
+URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
+----------------------------------------
+Title: U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive
+Source: NPR News
+URL: https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers
+----------------------------------------
+Title: Iranian activist tells BBC how fear of war restarting intensifies trauma of repression
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Biggest VAR call ever? Four chaotic minutes that may define the season
+Source: BBC News
+URL: https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Tourist hotspot at 'end of the world' denies causing hantavirus outbreak
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Israeli settlers force Palestinian family to exhume and rebury their father
+Source: NPR News
+URL: https://www.npr.org/2026/05/10/nx-s1-5817496/israeli-settlers-palestinian-exhume-grave-west-bank-jenin
+----------------------------------------
+Title: Trump rejects Iran's latest response to U.S. ceasefire proposal
+Source: NPR News
+URL: https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal
+----------------------------------------
+Title: “Cannot be explained” – New ultra stainless steel stuns researchers
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260510030950.htm
+----------------------------------------
+Title: Scientists successfully transfer longevity gene and extend lifespan
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260510030948.htm
+----------------------------------------
+Title: Brain scans reveal a shocking difference between psychopaths and other people
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260510030946.htm
+----------------------------------------
+Title: Scientists discover the brain’s hidden “stop scratching” switch
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210654.htm
+----------------------------------------
+Title: Scientists stunned as volcano cloud destroys methane in the atmosphere
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210640.htm
+----------------------------------------
+Title: Scientists say a critical Atlantic ocean current is weakening and the world could feel the impact
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210639.htm
+----------------------------------------
+Title: Antarctica is melting from below and scientists say it’s worse than expected
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210637.htm
+----------------------------------------
+Title: Scientists reversed liver aging with young gut bacteria in stunning study
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260509210643.htm
+----------------------------------------
+Title: New chemical kills 95% of termites without harming humans
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260508211025.htm
+----------------------------------------
