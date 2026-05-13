@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-13
+========================================
+
+Title: PM prepares for King's Speech as he faces leadership crisis
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4gvd81681qo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Chris Mason: Why a quick meeting is overshadowing the King's Speech
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn7p2yl8j73o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: All the Labour MPs who have come out against Starmer, and the ones who want him to stay
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Watch: Wes Streeting leaves No 10 - minutes after arrival
+Source: BBC News
+URL: https://www.bbc.com/news/videos/c7v9l6dm43do?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: How would a Labour leadership contest work?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly
+Source: Hacker News
+URL: https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/
+----------------------------------------
+Title: Twenty-two people set to leave hospital after hantavirus isolation
+Source: BBC News
+URL: https://www.bbc.com/news/articles/clyp4nk09k1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Alex's mum abducted him as a boy. Now he's ready to talk to her again
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cjepwven131o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Deterministic Fully-Static Whole-Binary Translation Without Heuristics
+Source: Hacker News
+URL: https://arxiv.org/abs/2605.08419
+----------------------------------------
+Title: French hantavirus patient is critically ill as outbreak grows to 11
+Source: NPR News
+URL: https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill
+----------------------------------------
+Title: $4.8M settlement reached over Louisiana traffic stop death, AP sources say
+Source: NPR News
+URL: https://www.npr.org/2026/05/13/g-s1-121782/settlement-louisiana-death
+----------------------------------------
+Title: Trump's proposed 'Golden Dome' estimated to cost $1.2 trillion
+Source: NPR News
+URL: https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost
+----------------------------------------
+Title: The potential challengers to Keir Starmer
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Starship V3
+Source: Hacker News
+URL: https://www.spacex.com/updates#starship-v3
+----------------------------------------
+Title: My graduation cap runs Rust
+Source: Hacker News
+URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/
+----------------------------------------
+Title: Kids' test scores began declining way before COVID. These schools are making gains
+Source: NPR News
+URL: https://www.npr.org/2026/05/13/nx-s1-5812483/reading-math-scores-data
+----------------------------------------
+Title: When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug
+Source: Hacker News
+URL: https://blog.cloudflare.com/quic-death-spiral-fix/
+----------------------------------------
+Title: Kraftwerk's radical 1976 track
+Source: Hacker News
+URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
+----------------------------------------
+Title: Tell NYT, Atlantic, USA Today to keep Wayback Machine
+Source: Hacker News
+URL: https://www.savethearchive.com/newsleaders/
+----------------------------------------
+Title: Daily pill to help keep weight off after stopping obesity jabs
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cwy2e9wlvjxo?at_medium=RSS&at_campaign=rss
+----------------------------------------
