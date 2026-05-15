@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-15
+========================================
+
+Title: Scientists discover a mysterious asteroid breaking apart near the Sun
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260513221812.htm
+----------------------------------------
+Title: LLM Policy for Rust Compiler
+Source: Hacker News
+URL: https://github.com/rust-lang/rust-forge/pull/1040
+----------------------------------------
+Title: Hundreds of comedians unpaid by one of UK's biggest comedy festivals
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czx2ypgwxx7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Royal finances face a cut. But will much really change?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c4g0e92dp6ko?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Australia soars into Eurovision final as UK song debuts
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c9weyz8nk4ro?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Zack Polanski did not vote in local elections, Green Party says
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8e8133xp5eo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Scientists “bottle the sun” with a liquid battery that stores solar energy
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260513221821.htm
+----------------------------------------
+Title: Colon cancer is rising in young adults and doctors don’t fully know why
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260513221805.htm
+----------------------------------------
+Title: Watch: The day Labour's potential leadership race began to heat up
+Source: BBC News
+URL: https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The 10 best songs competing at (a very contentious) Eurovision
+Source: NPR News
+URL: https://www.npr.org/2026/05/14/nx-s1-5813511/eurovision-2026-predictions-top-songs
+----------------------------------------
+Title: Native kids with disabilities were held in wooden boxes. Sweeping reforms are coming
+Source: NPR News
+URL: https://www.npr.org/2026/05/14/nx-s1-5821682/salmon-river-mohawk-children
+----------------------------------------
+Title: Some plants have unusual genetics, which can help them weather cataclysmic events
+Source: NPR News
+URL: https://www.npr.org/2026/05/14/nx-s1-5816431/some-plants-have-unusual-genetics-which-can-help-them-weather-cataclysmic-events
+----------------------------------------
+Title: How AI is speeding new business creation, especially among Gen Z entrepreneurs
+Source: NPR News
+URL: https://www.npr.org/2026/05/14/nx-s1-5816229/how-ai-is-speeding-new-business-creation-especially-among-gen-z-entrepreneurs
+----------------------------------------
+Title: The Supreme Court keeps abortion pill mifepristone available by telehealth
+Source: NPR News
+URL: https://www.npr.org/2026/05/14/nx-s1-5821591/mifepristone-supreme-court-louisiana-telehealth
+----------------------------------------
+Title: Linda McMahon defends dismantling the Education Department, shifting its work
+Source: NPR News
+URL: https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing
+----------------------------------------
+Title: Cuba's power grid collapses and plunges eastern provinces into a major blackout
+Source: NPR News
+URL: https://www.npr.org/2026/05/14/nx-s1-5822583/cuba-blackout
+----------------------------------------
+Title: After 100 years, scientists finally uncover hidden rule behind cosmic rays
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260513221809.htm
+----------------------------------------
+Title: Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260514084421.htm
+----------------------------------------
+Title: Giant squid discovery uncovers a hidden deep-sea world off Australia
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260513221807.htm
+----------------------------------------
+Title: Deadly “red sky” solar storm from 800 years ago discovered in ancient trees
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260513221818.htm
+----------------------------------------
