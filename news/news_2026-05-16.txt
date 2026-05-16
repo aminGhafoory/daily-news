@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-16
+========================================
+
+Title: The CTF scene is dead
+Source: Hacker News
+URL: https://kabir.au/blog/the-ctf-scene-is-dead
+----------------------------------------
+Title: Trump warns Taiwan against declaring independence, hours after summit with China's Xi
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: California's Battery Array Is as Powerful as 12 Nuclear Power Plants
+Source: Hacker News
+URL: https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/
+----------------------------------------
+Title: The Eurovision Song Contest reaches its grand final with pop and protests
+Source: NPR News
+URL: https://www.npr.org/2026/05/16/nx-s1-5824325/eurovision-final-vienna
+----------------------------------------
+Title: Gaza airstrike targeted Hamas military wing leader, Israel says
+Source: NPR News
+URL: https://www.npr.org/2026/05/16/g-s1-122453/gaza-airstrike-hamas-military-leader
+----------------------------------------
+Title: Show HN: Epiq – Distributed Git based issue tracker TUI
+Source: Hacker News
+URL: https://ljtn.github.io/epiq/
+----------------------------------------
+Title: NYT and vaping: How to lie by saying only true things (2022)
+Source: Hacker News
+URL: https://gwern.net/vaping
+----------------------------------------
+Title: I tried the UK's 'saltiest' sandwich - here's what I learned
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cd9pylq25y9o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: 'They took £20,000 I didn't owe': Parents hit by child maintenance errors
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The main thing about P2P meth is that there's so much of it (2021)
+Source: Hacker News
+URL: https://dynomight.net/p2p-meth/
+----------------------------------------
+Title: Erlang/OTP 29.0
+Source: Hacker News
+URL: https://www.erlang.org/news/188
+----------------------------------------
+Title: SQL patterns I use to catch transaction fraud
+Source: Hacker News
+URL: https://analytics.fixelsmith.com/posts/sql-fraud-patterns/
+----------------------------------------
+Title: Eurovision final: Sex, violins and seven other things to look out for
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c1d2qe73ly7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution
+Source: Hacker News
+URL: https://github.com/chiennv2000/orthrus
+----------------------------------------
+Title: How to Write to SSDs [pdf]
+Source: Hacker News
+URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
+----------------------------------------
+Title: Alleged murder of Aboriginal girl highlights Australia's deep inequalities
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cq6p57mnz9lo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: I believe there are entire companies right now under AI psychosis
+Source: Hacker News
+URL: https://twitter.com/mitchellh/status/2055380239711457578
+----------------------------------------
+Title: How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cvgzjj474ywo?at_medium=RSS&at_campaign=rss
+----------------------------------------
