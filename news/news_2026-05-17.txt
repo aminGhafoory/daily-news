@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-17
+========================================
+
+Title: Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: WHO declares Ebola outbreak in DR Congo a global health emergency
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Mozilla to UK regulators: VPNs are essential privacy and security tools
+Source: Hacker News
+URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/
+----------------------------------------
+Title: Tesla Solar Roof is on life support as it pivot to panels
+Source: Hacker News
+URL: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/
+----------------------------------------
+Title: Grafana Labs internal source code accessed
+Source: Hacker News
+URL: https://twitter.com/grafana/status/2055827123236171827
+----------------------------------------
+Title: Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260515233340.htm
+----------------------------------------
+Title: Lost 1,200-year-old manuscript contains the first English poem
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260515233337.htm
+----------------------------------------
+Title: 'Look Mum, one point': Why does the UK keep getting Eurovision wrong?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Bangaranga! Bulgaria wins Eurovision - but UK comes last
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c8d87v9v660o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: New study debunks the biggest fear about yo-yo dieting
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260515233331.htm
+----------------------------------------
+Title: Hosting a website on an 8-bit microcontroller
+Source: Hacker News
+URL: https://maurycyz.com/projects/mcusite/
+----------------------------------------
+Title: Self-Distillation Enables Continual Learning [pdf]
+Source: Hacker News
+URL: https://arxiv.org/abs/2601.19897
+----------------------------------------
+Title: Scientists discover why some cancers survive chemotherapy
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260515233329.htm
+----------------------------------------
+Title: New York Magazine reviewing work of writer facing plagiarism allegations
+Source: NPR News
+URL: https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan
+----------------------------------------
+Title: Fisker went bankrupt and owners built an open source car company from the ashes
+Source: Hacker News
+URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/
+----------------------------------------
+Title: Scientists warn that the world’s rivers are running out of oxygen
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2026/05/260515233327.htm
+----------------------------------------
+Title: Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The UK is churning through leaders. Is the country becoming harder to govern?
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Living with PMDD is like having the Grim Reaper visit every month
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cx21kypwpzno?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: The girl group who've sold out venues and toured the world - without releasing a record
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cz721w33ve1o?at_medium=RSS&at_campaign=rss
+----------------------------------------
