@@ -1,0 +1,83 @@
+Daily News Digest - 2026-05-19
+========================================
+
+Title: Swinney defends food prices policy ahead of first minister vote
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cn5pllxl1npo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Man City set to replace Guardiola with Maresca
+Source: BBC News
+URL: https://www.bbc.com/sport/football/articles/cd0pkk1xy23o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Married at First Sight UK rape allegations 'serious', says government
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Junior school pupil treated for meningitis in fourth Reading case
+Source: BBC News
+URL: https://www.bbc.com/news/articles/cy72vey8nj7o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: UK unemployment rate unexpectedly rises
+Source: BBC News
+URL: https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: New High Street crime unit to target gangs fronting shops after BBC investigation
+Source: BBC News
+URL: https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Teen suspects fatally shoot three in suspected hate crime at San Diego mosque
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised
+Source: Hacker News
+URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/
+----------------------------------------
+Title: Wrongly jailed Malkinson tells BBC: 'I've been cheated, very badly cheated'
+Source: BBC News
+URL: https://www.bbc.com/news/articles/c74r1x7dj8go?at_medium=RSS&at_campaign=rss
+----------------------------------------
+Title: These men voted for President Trump. They have very different views of how he's doing
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/nx-s1-5788971/swing-voters-trump-president-approval-2026-midterms
+----------------------------------------
+Title: The French Open courts are clay, a tricky surface for some. Here's how the pros do it
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/nx-s1-5822888/french-open-clay-hailey-baptiste
+----------------------------------------
+Title: In conservative Utah, some communities are ditching fossil fuel power for clean energy
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/nx-s1-5734480/renewable-energy-utah
+----------------------------------------
+Title: What we know about how the U.S. government uses spyware (and what we don't)
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/nx-s1-5826085/spyware-trump-dhs-paragon
+----------------------------------------
+Title: 'We're not kids anymore': The DACA generation hits their 30s with an unstable future
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/g-s1-121405/immigration-trump-daca-generation-limbo
+----------------------------------------
+Title: NTSB hearing will probe cause of fiery UPS jet crash that killed 15 in Louisville
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/nx-s1-5823467/ups-crash-md-11-ntsb-louisville
+----------------------------------------
+Title: Steep drop in number of people with Affordable Care Act health coverage, analysis finds
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/nx-s1-5825887/affordable-care-act-health-insurance-price
+----------------------------------------
+Title: House holds off on prediction market ban despite bipartisan calls for prohibition
+Source: NPR News
+URL: https://www.npr.org/2026/05/19/g-s1-121820/house-holds-off-on-prediction-market-ban-despite-bipartisan-calls-for-prohibition
+----------------------------------------
+Title: Mug Shots: A Small Town Noir (2014)
+Source: Hacker News
+URL: https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir
+----------------------------------------
+Title: PyTorch Landscape
+Source: Hacker News
+URL: https://pytorch.landscape2.io
+----------------------------------------
+Title: Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust
+Source: Hacker News
+URL: https://github.com/harmont-dev/hsrs
+----------------------------------------
